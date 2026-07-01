@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0696-count-binary-substrings) |
+## Hash Table
+|  |
+| ------- |
+| [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 <!---LeetCode Topics End-->
