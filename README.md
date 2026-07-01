@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
+| [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
+| [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 ## Tree
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
+| [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
+| [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 ## Sorting
 |  |
 | ------- |
@@ -138,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
+## Number Theory
+|  |
+| ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 <!---LeetCode Topics End-->
