@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0728-self-dividing-numbers) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
