@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2961-double-modular-exponentiation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2961-double-modular-exponentiation) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 | [2961-double-modular-exponentiation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2961-double-modular-exponentiation) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 ## Combinatorics
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 ## Greedy
 |  |
 | ------- |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 ## Bit Manipulation
 |  |
 | ------- |
