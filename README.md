@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3011-find-if-array-can-be-sorted) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Memoization
 |  |
 | ------- |
