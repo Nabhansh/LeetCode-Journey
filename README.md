@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
@@ -232,10 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
