@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -119,17 +120,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Design
 |  |
 | ------- |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 ## Math
