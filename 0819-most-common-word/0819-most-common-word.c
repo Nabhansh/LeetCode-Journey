@@ -1,51 +1,56 @@
-typedef struct {
-    char word[20];
-    int cnt;
-} Node;
-
-int mostCommonWordCmp(const void *a, const void *b) {
-    return ((Node *)b)->cnt - ((Node *)a)->cnt;
+int cmp(const void *a, const void *b) {
+    return strcmp(*(char **)a, *(char **)b);
 }
 
 char* mostCommonWord(char* paragraph, char** banned, int bannedSize) {
-    Node words[1000];
-    int size = 0;
+    char *words[1000];
+    int cnt = 0;
+
     int n = strlen(paragraph);
+    char temp[20];
+    int k = 0;
 
-    for (int i = 0; i < n;) {
-        while (i < n && !isalpha(paragraph[i])) i++;
-        if (i == n) break;
-
-        char tmp[20];
-        int k = 0;
-        while (i < n && isalpha(paragraph[i]))
-            tmp[k++] = tolower(paragraph[i++]);
-        tmp[k] = '\0';
-
-        bool ban = false;
-        for (int j = 0; j < bannedSize; j++)
-            if (strcmp(tmp, banned[j]) == 0) {
-                ban = true;
-                break;
-            }
-        if (ban) continue;
-
-        int idx = -1;
-        for (int j = 0; j < size; j++)
-            if (!strcmp(words[j].word, tmp)) {
-                idx = j;
-                break;
-            }
-
-        if (idx == -1) {
-            strcpy(words[size].word, tmp);
-            words[size].cnt = 1;
-            size++;
+    for (int i = 0; i <= n; i++) {
+        if (isalpha(paragraph[i])) {
+            temp[k++] = tolower(paragraph[i]);
         } else {
-            words[idx].cnt++;
+            if (k) {
+                temp[k] = '\0';
+                k = 0;
+
+                bool ban = false;
+                for (int j = 0; j < bannedSize; j++) {
+                    if (!strcmp(temp, banned[j])) {
+                        ban = true;
+                        break;
+                    }
+                }
+
+                if (!ban)
+                    words[cnt++] = strdup(temp);
+            }
         }
     }
 
-    qsort(words, size, sizeof(Node), mostCommonWordCmp);
-    return strdup(words[0].word);
+    qsort(words, cnt, sizeof(char *), cmp);
+
+    int best = 1, cur = 1;
+    char *ans = words[0];
+
+    for (int i = 1; i < cnt; i++) {
+        if (!strcmp(words[i], words[i - 1])) {
+            cur++;
+        } else {
+            if (cur > best) {
+                best = cur;
+                ans = words[i - 1];
+            }
+            cur = 1;
+        }
+    }
+
+    if (cur > best)
+        ans = words[cnt - 1];
+
+    return ans;
 }
