@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0771-jewels-and-stones) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0771-jewels-and-stones) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
