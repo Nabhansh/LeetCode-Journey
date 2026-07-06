@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## String
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0830-positions-of-large-groups) |
+| [0844-backspace-string-compare](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 | [2961-double-modular-exponentiation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2961-double-modular-exponentiation) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Topological Sort
@@ -370,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0836-rectangle-overlap) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
