@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3026-maximum-good-subarray-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3026-maximum-good-subarray-sum) |
 | [3030-find-the-grid-of-region-average](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3030-find-the-grid-of-region-average) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -328,12 +330,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0796-rotate-string) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Geometry
 |  |
 | ------- |
