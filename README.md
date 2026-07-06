@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [1288-remove-covered-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3030-find-the-grid-of-region-average](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3030-find-the-grid-of-region-average) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0836-rectangle-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0836-rectangle-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Stack
 |  |
