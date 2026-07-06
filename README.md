@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3030-find-the-grid-of-region-average](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3030-find-the-grid-of-region-average) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3035-maximum-palindromes-after-operations) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3026-maximum-good-subarray-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3026-maximum-good-subarray-sum) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3035-maximum-palindromes-after-operations) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Tree
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3035-maximum-palindromes-after-operations) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Greedy
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3035-maximum-palindromes-after-operations) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Memoization
 |  |
 | ------- |
