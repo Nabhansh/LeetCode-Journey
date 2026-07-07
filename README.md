@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3035-maximum-palindromes-after-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Greedy
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3012-minimize-length-of-array-using-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3035-maximum-palindromes-after-operations) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Bit Manipulation
 |  |
 | ------- |
