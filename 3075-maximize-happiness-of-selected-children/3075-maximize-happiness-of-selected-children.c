@@ -1,0 +1,19 @@
+#include <stdlib.h>
+
+int cmp(const void *a, const void *b) {
+    return (*(int *)b) - (*(int *)a);
+}
+
+long long maximumHappinessSum(int* happiness, int happinessSize, int k) {
+    qsort(happiness, happinessSize, sizeof(int), cmp);
+
+    long long ans = 0;
+
+    for (int i = 0; i < k; i++) {
+        int val = happiness[i] - i;
+        if (val > 0)
+            ans += val;
+    }
+
+    return ans;
+}
