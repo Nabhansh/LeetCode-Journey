@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Tree
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Greedy
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3035-maximum-palindromes-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3035-maximum-palindromes-after-operations) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Memoization
 |  |
 | ------- |
