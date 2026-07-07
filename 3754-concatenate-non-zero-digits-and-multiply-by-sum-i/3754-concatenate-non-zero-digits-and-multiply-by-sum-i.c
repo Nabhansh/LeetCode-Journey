@@ -1,12 +1,31 @@
 long long sumAndMultiply(int n) {
-    int x = 0, sum = 0, i = 1;
-    while(n > 0) {
-        int m = n % 10;
-        n /= 10;
-        if(m == 0) continue;
-        sum += m;
-        x += (m * i);
-        i *= 10;
+    if (n == 0) {
+        return 0;
     }
-    return (long long) x * sum;
+
+    int arr[10];
+    int size = 0;
+
+    while (n > 0) {
+        int d = n % 10;
+        if (d > 0) {
+            arr[size++] = d;
+        }
+        n /= 10;
+    }
+
+    long long sum = 0;
+    for (int i = 0; i < size; i++) {
+        sum += arr[i];
+    }
+
+    long long value = 0;
+    long long tens = 1;
+
+    for (int i = 0; i < size; i++) {
+        value += (long long)arr[i] * tens;
+        tens *= 10;
+    }
+
+    return value * sum;
 }
