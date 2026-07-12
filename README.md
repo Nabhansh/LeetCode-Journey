@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0908-smallest-range-i) |
 | [1288-remove-covered-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0908-smallest-range-i) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
