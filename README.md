@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 ## Hash Table
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 ## Bit Manipulation
 |  |
 | ------- |
