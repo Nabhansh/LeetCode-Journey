@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0696-count-binary-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0832-flipping-an-image) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0728-self-dividing-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0812-largest-triangle-area) |
