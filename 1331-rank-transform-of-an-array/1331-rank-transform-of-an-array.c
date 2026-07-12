@@ -1,43 +1,60 @@
-int cmp (const void* a, const void* b) {
-    int* markA = *(int**)a;
-    int* markB = *(int**)b;
+#include <stdlib.h>
 
-    if (markA[0] > markB[0]) {
-        return 1;
+int compare(const void* a, const void* b) {
+    int x = *(const int*)a;
+    int y = *(const int*)b;
+
+    return (x > y) - (x < y);
+}
+
+int binarySearch(int* arr, int size, int target) {
+    int left = 0;
+    int right = size - 1;
+
+    while (left <= right) {
+        int mid = left + (right - left) / 2;
+
+        if (arr[mid] == target) {
+            return mid;
+        }
+
+        if (arr[mid] < target) {
+            left = mid + 1;
+        } else {
+            right = mid - 1;
+        }
     }
 
-    if (markA[0] < markB[0]) {
-        return -1;
-    }
-
-    return 0;
+    return -1;
 }
 
 int* arrayRankTransform(int* arr, int arrSize, int* returnSize) {
-    int** mark = malloc(sizeof(int*) * arrSize);
-    
+    int* answer = (int*)malloc(arrSize * sizeof(int));
+    int* sorted = (int*)malloc(arrSize * sizeof(int));
+
     for (int i = 0; i < arrSize; i++) {
-        mark[i] = malloc(sizeof(int) * 2);
-        mark[i][0] = arr[i];
-        mark[i][1] = i; 
+        sorted[i] = arr[i];
     }
 
-    qsort(mark, arrSize, sizeof(int*), cmp);
+    qsort(sorted, arrSize, sizeof(int), compare);
 
-    int* ret = malloc(sizeof(int) * arrSize);
-    *returnSize = arrSize;
-    int k = 0;
-    int val = INT_MIN;
+    // Remove duplicates
+    int uniqueSize = 0;
+
     for (int i = 0; i < arrSize; i++) {
-        if (val != mark[i][0]) {
-            k++;
-            val = mark[i][0];
+        if (i == 0 || sorted[i] != sorted[i - 1]) {
+            sorted[uniqueSize++] = sorted[i];
         }
-        ret[mark[i][1]] = k;
-        free(mark[i]);
     }
 
-    free(mark);
+    // Find rank of every element
+    for (int i = 0; i < arrSize; i++) {
+        int index = binarySearch(sorted, uniqueSize, arr[i]);
+        answer[i] = index + 1;
+    }
 
-    return ret;
+    free(sorted);
+
+    *returnSize = arrSize;
+    return answer;
 }
