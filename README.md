@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3092-most-frequent-ids](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3092-most-frequent-ids) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3096-minimum-levels-to-gain-more-points) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3011-find-if-array-can-be-sorted) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Queue
 |  |
 | ------- |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Simulation
 |  |
 | ------- |
