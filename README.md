@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [0929-unique-email-addresses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0929-unique-email-addresses) |
 | [1288-remove-covered-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0925-long-pressed-name) |
+| [0929-unique-email-addresses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0929-unique-email-addresses) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0929-unique-email-addresses) |
 | [1331-rank-transform-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
