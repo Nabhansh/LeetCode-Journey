@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3115-maximum-prime-difference) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3128-right-triangles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3128-right-triangles) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
 ## String
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3044-most-frequent-prime) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
 ## Greedy
 |  |
 | ------- |
