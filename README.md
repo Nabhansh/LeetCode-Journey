@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0942-di-string-match) |
 | [1288-remove-covered-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0942-di-string-match) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0929-unique-email-addresses) |
+| [0942-di-string-match](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0942-di-string-match) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0942-di-string-match) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2952-minimum-number-of-coins-to-be-added) |
