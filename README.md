@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3143-maximum-points-inside-the-square) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-most-frequent-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3044-most-frequent-prime) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
