@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3152-special-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3152-special-array-ii) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3143-maximum-points-inside-the-square](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3143-maximum-points-inside-the-square) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3101-count-alternating-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3101-count-alternating-subarrays) |
 | [3115-maximum-prime-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3115-maximum-prime-difference) |
 | [3128-right-triangles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3128-right-triangles) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
 |  |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Memoization
 |  |
 | ------- |
