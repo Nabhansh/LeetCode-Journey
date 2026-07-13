@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3011-find-if-array-can-be-sorted) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3133-minimum-array-end](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3133-minimum-array-end) |
 ## Queue
 |  |
 | ------- |
