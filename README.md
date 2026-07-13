@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3138-minimum-length-of-anagram-concatenation) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3092-most-frequent-ids](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3092-most-frequent-ids) |
 | [3128-right-triangles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3128-right-triangles) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3138-minimum-length-of-anagram-concatenation) |
 ## Tree
 |  |
 | ------- |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3128-right-triangles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3128-right-triangles) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3138-minimum-length-of-anagram-concatenation) |
 ## Memoization
 |  |
 | ------- |
