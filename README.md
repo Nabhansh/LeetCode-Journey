@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3092-most-frequent-ids](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3092-most-frequent-ids) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-maximum-points-inside-the-square](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3143-maximum-points-inside-the-square) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3163-string-compression-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3163-string-compression-iii) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Hash Table
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3164-find-the-number-of-good-pairs-ii) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Tree
 |  |
 | ------- |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0897-increasing-order-search-tree) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
 |  |
 | ------- |
