@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3169-count-days-without-meetings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3169-count-days-without-meetings) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 ## Topological Sort
 |  |
 | ------- |
