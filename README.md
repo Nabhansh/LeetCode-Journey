@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3164-find-the-number-of-good-pairs-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3164-find-the-number-of-good-pairs-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3164-find-the-number-of-good-pairs-ii) |
 ## Tree
 |  |
 | ------- |
