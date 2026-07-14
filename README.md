@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3169-count-days-without-meetings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3169-count-days-without-meetings) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Tree
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
