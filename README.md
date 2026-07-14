@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0989-add-to-array-form-of-integer) |
+| [0997-find-the-town-judge](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1288-remove-covered-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0929-unique-email-addresses) |
+| [0997-find-the-town-judge](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
