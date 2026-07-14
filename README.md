@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3143-maximum-points-inside-the-square](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3143-maximum-points-inside-the-square) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
+| [3163-string-compression-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3163-string-compression-iii) |
 ## Hash Table
 |  |
 | ------- |
