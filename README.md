@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
+| [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
+| [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
