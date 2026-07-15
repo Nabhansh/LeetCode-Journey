@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3180-maximum-total-reward-using-operations-i) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 ## Tree
 |  |
 | ------- |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 ## Memoization
 |  |
 | ------- |
