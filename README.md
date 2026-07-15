@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3180-maximum-total-reward-using-operations-i) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
