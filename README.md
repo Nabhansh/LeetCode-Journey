@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3207-maximum-points-after-enemy-battles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3208-alternating-groups-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3208-alternating-groups-ii) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 ## Tree
 |  |
 | ------- |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-special-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3152-special-array-ii) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 ## Graph Theory
 |  |
 | ------- |
