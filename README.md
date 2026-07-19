@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1030-matrix-cells-in-distance-order) |
+| [1051-height-checker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
@@ -720,4 +722,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
