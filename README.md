@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-string-compression-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3163-string-compression-iii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Tree
 |  |
 | ------- |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Memoization
 |  |
 | ------- |
