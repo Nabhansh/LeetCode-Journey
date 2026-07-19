@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3208-alternating-groups-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3208-alternating-groups-ii) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Simulation
 |  |
 | ------- |
