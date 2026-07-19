@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0993-cousins-in-binary-tree) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3249-count-the-number-of-good-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3249-count-the-number-of-good-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3249-count-the-number-of-good-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3249-count-the-number-of-good-nodes) |
 ## Math
 |  |
 | ------- |
