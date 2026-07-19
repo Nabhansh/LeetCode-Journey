@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3208-alternating-groups-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3208-alternating-groups-ii) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-maximum-points-inside-the-square](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3143-maximum-points-inside-the-square) |
 | [3169-count-days-without-meetings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3169-count-days-without-meetings) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3180-maximum-total-reward-using-operations-i) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3207-maximum-points-after-enemy-battles) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Bit Manipulation
 |  |
 | ------- |
