@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3208-alternating-groups-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3208-alternating-groups-ii) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3227-vowels-game-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3227-vowels-game-in-a-string) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3012-minimize-length-of-array-using-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3044-most-frequent-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3044-most-frequent-prime) |
 | [3115-maximum-prime-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3115-maximum-prime-difference) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
