@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
 |  |
