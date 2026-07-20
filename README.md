@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3271-hash-divided-string) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3265-count-almost-equal-pairs-i) |
+| [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Tree
 |  |
 | ------- |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3208-alternating-groups-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
+| [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Simulation
 |  |
 | ------- |
