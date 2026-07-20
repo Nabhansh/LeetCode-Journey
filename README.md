@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3227-vowels-game-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3227-vowels-game-in-a-string) |
+| [3271-hash-divided-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3271-hash-divided-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3271-hash-divided-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3271-hash-divided-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
 |  |
