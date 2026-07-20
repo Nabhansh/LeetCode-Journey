@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1089-duplicate-zeros) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
