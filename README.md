@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3290-maximum-multiplication-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3290-maximum-multiplication-score) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3295-report-spam-message](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3295-report-spam-message) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3271-hash-divided-string) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3295-report-spam-message](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3295-report-spam-message) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Hash Table
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3265-count-almost-equal-pairs-i) |
+| [3295-report-spam-message](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3295-report-spam-message) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Tree
 |  |
