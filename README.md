@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1103-distribute-candies-to-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1103-distribute-candies-to-people) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0999-available-captures-for-rook) |
+| [1103-distribute-candies-to-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [2961-double-modular-exponentiation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2961-double-modular-exponentiation) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
