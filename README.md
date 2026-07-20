@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3265-count-almost-equal-pairs-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3265-count-almost-equal-pairs-i) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3207-maximum-points-after-enemy-battles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3282-reach-end-of-array-with-max-score) |
 ## Bit Manipulation
 |  |
 | ------- |
