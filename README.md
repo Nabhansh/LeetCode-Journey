@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1089-duplicate-zeros) |
+| [1122-relative-sort-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1122-relative-sort-array) |
 ## Segment Tree
 |  |
 | ------- |
