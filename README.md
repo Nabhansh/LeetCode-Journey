@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3316-find-maximum-removals-from-source-string) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Tree
 |  |
 | ------- |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Simulation
 |  |
 | ------- |
