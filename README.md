@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3316-find-maximum-removals-from-source-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3265-count-almost-equal-pairs-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sorting
 |  |
 | ------- |
