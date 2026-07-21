@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3295-report-spam-message](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3295-report-spam-message) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3265-count-almost-equal-pairs-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3265-count-almost-equal-pairs-i) |
 | [3295-report-spam-message](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3295-report-spam-message) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Tree
 |  |
 | ------- |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Simulation
 |  |
 | ------- |
