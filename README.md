@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
 |  |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3316-find-maximum-removals-from-source-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3335-total-characters-in-string-after-transformations-i) |
 ## Tree
 |  |
 | ------- |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3332-maximum-points-tourist-can-earn) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3334-find-the-maximum-factor-score-of-array) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -777,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3265-count-almost-equal-pairs-i) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3335-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
 | ------- |
