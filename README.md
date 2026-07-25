@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-day-of-the-week](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1185-day-of-the-week) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0999-available-captures-for-rook) |
 | [1103-distribute-candies-to-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1103-distribute-candies-to-people) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [2961-double-modular-exponentiation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2961-double-modular-exponentiation) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
