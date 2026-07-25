@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1175-prime-arrangements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1185-day-of-the-week) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1037-valid-boomerang) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Stack
 |  |
