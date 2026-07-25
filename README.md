@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-maximum-points-tourist-can-earn](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3332-maximum-points-tourist-can-earn) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -710,12 +713,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
 |  |
