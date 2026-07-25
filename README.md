@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
