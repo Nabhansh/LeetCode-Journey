@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3316-find-maximum-removals-from-source-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
 |  |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Tree
 |  |
 | ------- |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3249-count-the-number-of-good-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3249-count-the-number-of-good-nodes) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3249-count-the-number-of-good-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3249-count-the-number-of-good-nodes) |
 | [3310-remove-methods-from-project](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Math
 |  |
 | ------- |
