@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3355-zero-array-transformation-i) |
+| [3356-zero-array-transformation-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3356-zero-array-transformation-ii) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3356-zero-array-transformation-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3356-zero-array-transformation-ii) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3316-find-maximum-removals-from-source-string) |
+| [3356-zero-array-transformation-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3356-zero-array-transformation-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3355-zero-array-transformation-i) |
+| [3356-zero-array-transformation-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3356-zero-array-transformation-ii) |
 ## Graph Theory
 |  |
 | ------- |
