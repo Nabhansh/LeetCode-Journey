@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
