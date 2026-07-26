@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1266-minimum-time-visiting-all-points) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
