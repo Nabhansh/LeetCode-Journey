@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-zero-array-transformation-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3356-zero-array-transformation-ii) |
 | [3361-shift-distance-between-two-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3361-shift-distance-between-two-strings) |
 | [3362-zero-array-transformation-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3362-zero-array-transformation-iii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
