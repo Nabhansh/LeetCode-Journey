@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-zero-array-transformation-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3356-zero-array-transformation-ii) |
 | [3361-shift-distance-between-two-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3361-shift-distance-between-two-strings) |
 | [3362-zero-array-transformation-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3362-zero-array-transformation-iii) |
+| [3366-minimum-array-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3366-minimum-array-sum) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-maximum-points-tourist-can-earn](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3366-minimum-array-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3366-minimum-array-sum) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
