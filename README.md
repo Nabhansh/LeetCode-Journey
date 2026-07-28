@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3362-zero-array-transformation-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3362-zero-array-transformation-iii) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1122-relative-sort-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Segment Tree
 |  |
 | ------- |
