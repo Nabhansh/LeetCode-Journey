@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Tree
 |  |
 | ------- |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3128-right-triangles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3128-right-triangles) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -886,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3265-count-almost-equal-pairs-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3265-count-almost-equal-pairs-i) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Memoization
 |  |
 | ------- |
