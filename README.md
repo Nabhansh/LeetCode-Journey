@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3404-count-special-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3404-count-special-subsequences) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3356-zero-array-transformation-ii) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3362-zero-array-transformation-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3362-zero-array-transformation-iii) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -821,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3361-shift-distance-between-two-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3361-shift-distance-between-two-strings) |
 | [3362-zero-array-transformation-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3362-zero-array-transformation-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Graph Theory
 |  |
 | ------- |
@@ -861,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Simulation
 |  |
 | ------- |
