@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3362-zero-array-transformation-iii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3408-design-task-manager](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3408-design-task-manager) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3404-count-special-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3404-count-special-subsequences) |
+| [3408-design-task-manager](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3408-design-task-manager) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Tree
 |  |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0933-number-of-recent-calls) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
+| [3408-design-task-manager](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3408-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -960,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3092-most-frequent-ids](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3092-most-frequent-ids) |
+| [3408-design-task-manager](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3408-design-task-manager) |
 ## Backtracking
 |  |
 | ------- |
