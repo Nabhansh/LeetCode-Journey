@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3388-count-beautiful-splits-in-an-array) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-maximum-points-tourist-can-earn](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3393-count-paths-with-the-given-xor-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3366-minimum-array-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3366-minimum-array-sum) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3388-count-beautiful-splits-in-an-array) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3376-minimum-time-to-break-locks-i) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3393-count-paths-with-the-given-xor-value) |
 ## Queue
 |  |
 | ------- |
