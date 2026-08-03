@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3412-find-mirror-score-of-a-string) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3447-assign-elements-to-groups-with-constraints) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Tree
 |  |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3429-paint-house-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3429-paint-house-iv) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3434-maximum-frequency-after-subarray-operation) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3446-sort-matrix-by-diagonals) |
 | [3457-eat-pizzas](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3457-eat-pizzas) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -801,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3457-eat-pizzas](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3457-eat-pizzas) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3458-select-k-disjoint-special-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
