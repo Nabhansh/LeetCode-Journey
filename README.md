@@ -1013,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1280-students-and-examinations) |
+| [3421-find-students-who-improved](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3421-find-students-who-improved) |
 ## Counting Sort
 |  |
 | ------- |
