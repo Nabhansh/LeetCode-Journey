@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3356-zero-array-transformation-ii) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Math
 |  |
 | ------- |
@@ -843,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -852,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
 |  |
