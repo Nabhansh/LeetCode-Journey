@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3446-sort-matrix-by-diagonals) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3446-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3433-count-mentions-per-user](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3446-sort-matrix-by-diagonals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
