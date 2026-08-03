@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3404-count-special-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3404-count-special-subsequences) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3362-zero-array-transformation-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3362-zero-array-transformation-iii) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 ## Bit Manipulation
 |  |
 | ------- |
