@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3446-sort-matrix-by-diagonals) |
+| [3447-assign-elements-to-groups-with-constraints](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-find-mirror-score-of-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3412-find-mirror-score-of-a-string) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
+| [3447-assign-elements-to-groups-with-constraints](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Tree
 |  |
