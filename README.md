@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3479-fruits-into-baskets-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
 | [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
+| [3489-zero-array-transformation-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3489-zero-array-transformation-iv) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
+| [3489-zero-array-transformation-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3489-zero-array-transformation-iv) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
