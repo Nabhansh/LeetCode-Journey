@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1323-maximum-69-number) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2952-minimum-number-of-coins-to-be-added) |
