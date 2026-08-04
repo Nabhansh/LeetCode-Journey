@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3479-fruits-into-baskets-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-zero-array-transformation-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3356-zero-array-transformation-ii) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3479-fruits-into-baskets-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -1076,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3092-most-frequent-ids](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3092-most-frequent-ids) |
 | [3408-design-task-manager](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3408-design-task-manager) |
+| [3479-fruits-into-baskets-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -1120,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
+| [3479-fruits-into-baskets-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
 ## Concurrency
 |  |
 | ------- |
