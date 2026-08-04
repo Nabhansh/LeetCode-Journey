@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3030-find-the-grid-of-region-average](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3030-find-the-grid-of-region-average) |
 | [3044-most-frequent-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3044-most-frequent-prime) |
