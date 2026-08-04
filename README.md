@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3479-fruits-into-baskets-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
+| [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3446-sort-matrix-by-diagonals) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
+| [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3458-select-k-disjoint-special-substrings) |
+| [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Tree
 |  |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0933-number-of-recent-calls) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [3408-design-task-manager](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3408-design-task-manager) |
+| [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
 ## Data Stream
 |  |
 | ------- |
