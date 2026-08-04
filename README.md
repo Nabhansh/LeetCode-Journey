@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-find-mirror-score-of-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3412-find-mirror-score-of-a-string) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3458-select-k-disjoint-special-substrings) |
+| [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
+| [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
