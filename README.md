@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3523-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3523-make-array-non-decreasing) |
+| [3524-find-x-value-of-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3489-zero-array-transformation-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3489-zero-array-transformation-iv) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3468-find-the-number-of-copy-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
