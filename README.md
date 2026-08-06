@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3489-zero-array-transformation-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3489-zero-array-transformation-iv) |
 | [3493-properties-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3493-properties-graph) |
 | [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 ## Hash Table
 |  |
 | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-properties-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3493-properties-graph) |
 | [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 ## Tree
 |  |
 | ------- |
@@ -1029,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3412-find-mirror-score-of-a-string) |
 | [3433-count-mentions-per-user](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
 |  |
