@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
+| [1408-string-matching-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1360-number-of-days-between-two-dates) |
 | [1370-increasing-decreasing-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1408-string-matching-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1408-string-matching-in-an-array) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
@@ -1103,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1408-string-matching-in-an-array) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
