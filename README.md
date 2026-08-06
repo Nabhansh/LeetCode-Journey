@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-zero-array-transformation-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3356-zero-array-transformation-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3362-zero-array-transformation-iii) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Hash Table
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3489-zero-array-transformation-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3489-zero-array-transformation-iv) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## Sorting
 |  |
 | ------- |
