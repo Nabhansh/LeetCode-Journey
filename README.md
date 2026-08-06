@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
 | [3489-zero-array-transformation-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3489-zero-array-transformation-iv) |
 | [3493-properties-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3493-properties-graph) |
+| [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3479-fruits-into-baskets-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
+| [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3458-select-k-disjoint-special-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
 | [3493-properties-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3493-properties-graph) |
+| [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Tree
 |  |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [3408-design-task-manager](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
+| [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -915,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0933-number-of-recent-calls) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1119,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3092-most-frequent-ids](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3092-most-frequent-ids) |
 | [3408-design-task-manager](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3408-design-task-manager) |
 | [3479-fruits-into-baskets-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
+| [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
 ## Backtracking
 |  |
 | ------- |
