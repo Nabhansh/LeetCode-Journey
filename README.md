@@ -1160,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-find-students-who-improved](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3497-analyze-subscription-conversion) |
+| [3521-find-product-recommendation-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3521-find-product-recommendation-pairs) |
 ## Counting Sort
 |  |
 | ------- |
