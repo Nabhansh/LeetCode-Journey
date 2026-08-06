@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3493-properties-graph) |
+| [3528-unit-conversion-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3528-unit-conversion-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3493-properties-graph) |
+| [3528-unit-conversion-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3528-unit-conversion-i) |
 ## Math
 |  |
 | ------- |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3493-properties-graph) |
+| [3528-unit-conversion-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3528-unit-conversion-i) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
