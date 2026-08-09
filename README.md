@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3523-make-array-non-decreasing) |
 | [3524-find-x-value-of-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3527-find-the-most-common-response](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3527-find-the-most-common-response) |
+| [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-sort-matrix-by-diagonals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3446-sort-matrix-by-diagonals) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
+| [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3527-find-the-most-common-response](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3527-find-the-most-common-response) |
+| [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1113,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -1122,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Geometry
 |  |
 | ------- |
