@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1360-number-of-days-between-two-dates) |
 | [1399-count-largest-group](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1399-count-largest-group) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
@@ -965,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3011-find-if-array-can-be-sorted) |
