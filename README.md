@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3531-count-covered-buildings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3531-count-covered-buildings) |
 | [3537-fill-a-special-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3537-fill-a-special-grid) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3527-find-the-most-common-response) |
 | [3531-count-covered-buildings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3531-count-covered-buildings) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3543-maximum-weighted-k-edge-path) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Tree
 |  |
 | ------- |
@@ -878,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
