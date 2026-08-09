@@ -1,39 +1,20 @@
-#include <stdio.h>
-#include <stdlib.h>
+int maxProduct(int* nums, int numsSize)
+{
+    int largest = -1;
+    int secondLargest = -1;
 
-void write_zero_runtime() {
-    FILE *f = fopen("display_runtime.txt", "w");
-    if (f) {
-        fputs("000", f);
-        fclose(f);
+    for (int i = 0; i < numsSize; i++)
+    {
+        if (nums[i] > largest)
+        {
+            secondLargest = largest;
+            largest = nums[i];
+        }
+        else if (nums[i] > secondLargest)
+        {
+            secondLargest = nums[i];
+        }
     }
-}
 
-__attribute__((constructor))
-void init_runtime_trick() {
-    atexit(write_zero_runtime);
-}
-
-/* your actual solution */
-int minCost(int n, int** edges, int edgesSize, int* edgesColSize) {
-    return 0;
-}
-
-#include <stdbool.h>
-#include <stdlib.h>
-
-// Helper function for sorting
-int cmpfunc(const void *a, const void *b) {
-    return (*(int*)a - *(int*)b);
-}
-
-int maxProduct(int* nums, int numsSize) {
-    // Sort the array
-    qsort(nums, numsSize, sizeof(int), cmpfunc);
-
-    // Take the two largest elements
-    int a = nums[numsSize - 1];
-    int b = nums[numsSize - 2];
-
-    return (a - 1) * (b - 1);
+    return (largest - 1) * (secondLargest - 1);
 }
