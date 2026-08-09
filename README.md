@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3527-find-the-most-common-response) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3552-grid-teleportation-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3552-grid-teleportation-traversal) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3543-maximum-weighted-k-edge-path) |
+| [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3458-select-k-disjoint-special-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3523-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3523-make-array-non-decreasing) |
+| [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
