@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1184-distance-between-bus-stops](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1200-minimum-absolute-difference) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1185-day-of-the-week) |
@@ -996,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -1204,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [3227-vowels-game-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3227-vowels-game-in-a-string) |
 ## Database
@@ -1255,10 +1260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 ## Monotonic Stack
 |  |
