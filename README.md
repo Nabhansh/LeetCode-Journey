@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-calculate-score-after-performing-instructions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3527-find-the-most-common-response](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3527-find-the-most-common-response) |
 | [3531-count-covered-buildings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3531-count-covered-buildings) |
+| [3543-maximum-weighted-k-edge-path](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3543-maximum-weighted-k-edge-path) |
 ## Tree
 |  |
 | ------- |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3489-zero-array-transformation-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3489-zero-array-transformation-iv) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
+| [3543-maximum-weighted-k-edge-path](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3493-properties-graph) |
 | [3528-unit-conversion-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3528-unit-conversion-i) |
+| [3543-maximum-weighted-k-edge-path](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
