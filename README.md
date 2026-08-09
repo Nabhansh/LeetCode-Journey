@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3531-count-covered-buildings) |
 | [3537-fill-a-special-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3537-fill-a-special-grid) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3552-grid-teleportation-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3552-grid-teleportation-traversal) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3493-properties-graph) |
 | [3528-unit-conversion-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3528-unit-conversion-i) |
+| [3552-grid-teleportation-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3552-grid-teleportation-traversal) |
 ## Union-Find
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3537-fill-a-special-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3537-fill-a-special-grid) |
+| [3552-grid-teleportation-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3552-grid-teleportation-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3531-count-covered-buildings) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3552-grid-teleportation-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3552-grid-teleportation-traversal) |
 ## Tree
 |  |
 | ------- |
