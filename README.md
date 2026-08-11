@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1550-three-consecutive-odds) |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
@@ -1153,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1518-water-bottles) |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [2961-double-modular-exponentiation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2961-double-modular-exponentiation) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3080-mark-elements-on-array-by-performing-queries) |
