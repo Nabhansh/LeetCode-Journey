@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3576-transform-array-to-all-equal-elements) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Enumeration
 |  |
 | ------- |
@@ -1257,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1025-divisor-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1025-divisor-game) |
 | [3227-vowels-game-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3227-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
