@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1550-three-consecutive-odds) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
