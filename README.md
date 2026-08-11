@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3583-count-special-triplets) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -1001,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3576-transform-array-to-all-equal-elements) |
+| [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
