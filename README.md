@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1572-matrix-diagonal-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3030-find-the-grid-of-region-average](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3030-find-the-grid-of-region-average) |
 | [3044-most-frequent-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3044-most-frequent-prime) |
