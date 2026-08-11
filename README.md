@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-transform-array-to-all-equal-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3583-count-special-triplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3583-count-special-triplets) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3583-count-special-triplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3583-count-special-triplets) |
 ## Tree
 |  |
 | ------- |
@@ -1194,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3527-find-the-most-common-response](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3527-find-the-most-common-response) |
+| [3583-count-special-triplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3583-count-special-triplets) |
 ## Memoization
 |  |
 | ------- |
