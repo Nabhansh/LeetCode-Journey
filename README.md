@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -1026,10 +1028,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Number Theory
 |  |
 | ------- |
@@ -1073,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1120,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Simulation
 |  |
 | ------- |
