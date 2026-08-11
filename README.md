@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1556-thousand-separator) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
