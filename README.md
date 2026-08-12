@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3543-maximum-weighted-k-edge-path](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3493-properties-graph) |
 | [3528-unit-conversion-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3528-unit-conversion-i) |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 ## Math
 |  |
 | ------- |
