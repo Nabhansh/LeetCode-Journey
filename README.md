@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1598-crawler-log-folder](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1496-path-crossing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1512-number-of-good-pairs) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
