@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3623-count-number-of-trapezoids-i) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3618-split-array-by-prime-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3618-split-array-by-prime-indices) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3623-count-number-of-trapezoids-i) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3556-sum-of-largest-prime-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3613-minimize-maximum-component-cost](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3613-minimize-maximum-component-cost) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -1065,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-transform-array-to-all-equal-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3588-find-maximum-area-of-a-triangle) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1366,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1510-stone-game-iv) |
 | [3227-vowels-game-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3227-vowels-game-in-a-string) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Database
 |  |
 | ------- |
