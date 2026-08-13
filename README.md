@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3638-maximum-balanced-shipments](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3638-maximum-balanced-shipments) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3638-maximum-balanced-shipments](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3638-maximum-balanced-shipments) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1072,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3638-maximum-balanced-shipments](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3638-maximum-balanced-shipments) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1341,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-find-mirror-score-of-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3412-find-mirror-score-of-a-string) |
 | [3523-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3523-make-array-non-decreasing) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3561-resulting-string-after-adjacent-removals) |
+| [3638-maximum-balanced-shipments](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3638-maximum-balanced-shipments) |
 ## Trie
 |  |
 | ------- |
@@ -1448,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3523-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3523-make-array-non-decreasing) |
+| [3638-maximum-balanced-shipments](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3638-maximum-balanced-shipments) |
 ## Divide and Conquer
 |  |
 | ------- |
