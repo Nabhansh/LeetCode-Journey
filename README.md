@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1640-check-array-formation-through-concatenation) |
+| [1646-get-maximum-in-generated-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1646-get-maximum-in-generated-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1240,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1518-water-bottles) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1603-design-parking-system](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1603-design-parking-system) |
+| [1646-get-maximum-in-generated-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1646-get-maximum-in-generated-array) |
 | [2961-double-modular-exponentiation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2961-double-modular-exponentiation) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3080-mark-elements-on-array-by-performing-queries) |
