@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3597-partition-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3597-partition-string) |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Hash Table
 |  |
 | ------- |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3599-partition-array-to-minimize-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3599-partition-array-to-minimize-xor) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1069,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1157,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3599-partition-array-to-minimize-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3599-partition-array-to-minimize-xor) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Graph Theory
 |  |
 | ------- |
