@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3479-fruits-into-baskets-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
 | [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
+| [3613-minimize-maximum-component-cost](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3613-minimize-maximum-component-cost) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3493-properties-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3493-properties-graph) |
+| [3613-minimize-maximum-component-cost](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3613-minimize-maximum-component-cost) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3613-minimize-maximum-component-cost](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3613-minimize-maximum-component-cost) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -1158,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3528-unit-conversion-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3528-unit-conversion-i) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3613-minimize-maximum-component-cost](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3613-minimize-maximum-component-cost) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
