@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3597-partition-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3597-partition-string) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3623-count-number-of-trapezoids-i) |
+| [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 ## Tree
 |  |
 | ------- |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3638-maximum-balanced-shipments](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3638-maximum-balanced-shipments) |
+| [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1193,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3599-partition-array-to-minimize-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3599-partition-array-to-minimize-xor) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 ## Graph Theory
 |  |
 | ------- |
