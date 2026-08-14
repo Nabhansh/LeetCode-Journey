@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1629-slowest-key](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1668-maximum-repeating-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1668-maximum-repeating-substring) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [1668-maximum-repeating-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1668-maximum-repeating-substring) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -1357,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1668-maximum-repeating-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1668-maximum-repeating-substring) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
