@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3597-partition-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3597-partition-string) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3623-count-number-of-trapezoids-i) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Tree
 |  |
 | ------- |
@@ -1326,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3527-find-the-most-common-response](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3527-find-the-most-common-response) |
 | [3583-count-special-triplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3583-count-special-triplets) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Memoization
 |  |
 | ------- |
