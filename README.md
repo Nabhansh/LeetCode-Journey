@@ -920,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3618-split-array-by-prime-indices) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3648-minimum-sensors-to-cover-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
