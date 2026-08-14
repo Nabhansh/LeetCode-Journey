@@ -1465,6 +1465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1693-daily-leads-and-partners) |
 | [3421-find-students-who-improved](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3497-analyze-subscription-conversion) |
