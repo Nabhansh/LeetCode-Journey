@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3676-count-bowl-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3676-count-bowl-subarrays) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3680-generate-schedule](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3680-generate-schedule) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -950,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3680-generate-schedule](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3680-generate-schedule) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -1131,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3638-maximum-balanced-shipments](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3638-maximum-balanced-shipments) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3675-minimum-operations-to-transform-string) |
+| [3680-generate-schedule](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3680-generate-schedule) |
 ## Bit Manipulation
 |  |
 | ------- |
