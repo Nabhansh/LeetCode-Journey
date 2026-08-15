@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3664-two-letter-card-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3664-two-letter-card-game) |
 | [3665-twisted-mirror-path-count](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
+| [3676-count-bowl-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3676-count-bowl-subarrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -1415,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3523-make-array-non-decreasing) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3638-maximum-balanced-shipments](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3638-maximum-balanced-shipments) |
+| [3676-count-bowl-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3676-count-bowl-subarrays) |
 ## Trie
 |  |
 | ------- |
@@ -1528,6 +1530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3523-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3523-make-array-non-decreasing) |
 | [3638-maximum-balanced-shipments](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3638-maximum-balanced-shipments) |
+| [3676-count-bowl-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3676-count-bowl-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
