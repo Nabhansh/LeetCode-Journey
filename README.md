@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3664-two-letter-card-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3664-two-letter-card-game) |
 | [3665-twisted-mirror-path-count](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -1152,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3599-partition-array-to-minimize-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3599-partition-array-to-minimize-xor) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
 | ------- |
