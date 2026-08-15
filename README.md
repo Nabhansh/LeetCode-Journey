@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1720-decode-xored-array) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
+| [1732-find-the-highest-altitude](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1222,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
