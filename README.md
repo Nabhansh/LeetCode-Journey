@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3664-two-letter-card-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3664-two-letter-card-game) |
+| [3675-minimum-operations-to-transform-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3675-minimum-operations-to-transform-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -1126,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3638-maximum-balanced-shipments](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3638-maximum-balanced-shipments) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3645-maximum-total-from-optimal-activation-order) |
+| [3675-minimum-operations-to-transform-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3675-minimum-operations-to-transform-string) |
 ## Bit Manipulation
 |  |
 | ------- |
