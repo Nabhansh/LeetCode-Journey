@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3690-split-and-merge-array-transformation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3690-split-and-merge-array-transformation) |
 | [3693-climbing-stairs-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3693-climbing-stairs-ii) |
+| [3698-split-array-with-minimum-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3698-split-array-with-minimum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -1256,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
+| [3698-split-array-with-minimum-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3698-split-array-with-minimum-difference) |
 ## Graph Theory
 |  |
 | ------- |
