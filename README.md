@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1763-longest-nice-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1748-sum-of-unique-elements) |
+| [1763-longest-nice-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -1178,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1720-decode-xored-array) |
+| [1763-longest-nice-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3011-find-if-array-can-be-sorted) |
@@ -1300,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1591,6 +1595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [1763-longest-nice-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
 | [3537-fill-a-special-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3537-fill-a-special-grid) |
 ## Nim Game
 |  |
