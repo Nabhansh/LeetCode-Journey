@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1732-find-the-highest-altitude](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1748-sum-of-unique-elements) |
+| [1773-count-items-matching-a-rule](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1773-count-items-matching-a-rule) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1763-longest-nice-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1768-merge-strings-alternately) |
+| [1773-count-items-matching-a-rule](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1773-count-items-matching-a-rule) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
