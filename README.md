@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1720-decode-xored-array) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1732-find-the-highest-altitude](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
+| [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -921,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
@@ -1104,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -1361,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1479,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [3227-vowels-game-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3227-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Database
@@ -1551,12 +1556,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1572,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
