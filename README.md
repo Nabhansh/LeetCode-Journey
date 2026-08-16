@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3664-two-letter-card-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3664-two-letter-card-game) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3675-minimum-operations-to-transform-string) |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 ## Hash Table
 |  |
 | ------- |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3664-two-letter-card-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3664-two-letter-card-game) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3690-split-and-merge-array-transformation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3690-split-and-merge-array-transformation) |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 ## Tree
 |  |
 | ------- |
@@ -1253,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1309,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 ## Simulation
 |  |
 | ------- |
