@@ -597,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3664-two-letter-card-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3664-two-letter-card-game) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3675-minimum-operations-to-transform-string) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
+| [3703-remove-k-balanced-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3703-remove-k-balanced-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -1347,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3597-partition-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3597-partition-string) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3703-remove-k-balanced-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3703-remove-k-balanced-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
 |  |
@@ -1457,6 +1459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3638-maximum-balanced-shipments](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3638-maximum-balanced-shipments) |
 | [3676-count-bowl-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3676-count-bowl-subarrays) |
+| [3703-remove-k-balanced-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3703-remove-k-balanced-substrings) |
 ## Trie
 |  |
 | ------- |
