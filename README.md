@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1773-count-items-matching-a-rule) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1816-truncate-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1816-truncate-sentence) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1816-truncate-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1816-truncate-sentence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
