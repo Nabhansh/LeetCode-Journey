@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3698-split-array-with-minimum-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3698-split-array-with-minimum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3708-longest-fibonacci-subarray](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3708-longest-fibonacci-subarray) |
+| [3709-design-exam-scores-tracker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3709-design-exam-scores-tracker) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3613-minimize-maximum-component-cost](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3613-minimize-maximum-component-cost) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3639-minimum-time-to-activate-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3639-minimum-time-to-activate-string) |
+| [3709-design-exam-scores-tracker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3709-design-exam-scores-tracker) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-design-task-manager](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
+| [3709-design-exam-scores-tracker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3709-design-exam-scores-tracker) |
 ## Data Stream
 |  |
 | ------- |
@@ -1276,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3698-split-array-with-minimum-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3698-split-array-with-minimum-difference) |
+| [3709-design-exam-scores-tracker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3709-design-exam-scores-tracker) |
 ## Graph Theory
 |  |
 | ------- |
