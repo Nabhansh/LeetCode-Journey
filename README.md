@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3639-minimum-time-to-activate-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3639-minimum-time-to-activate-string) |
 | [3709-design-exam-scores-tracker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3709-design-exam-scores-tracker) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3664-two-letter-card-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Sorting
 |  |
 | ------- |
