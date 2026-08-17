@@ -996,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-minimum-sensors-to-cover-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3680-generate-schedule](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3680-generate-schedule) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -1186,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3675-minimum-operations-to-transform-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3675-minimum-operations-to-transform-string) |
 | [3680-generate-schedule](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3680-generate-schedule) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
