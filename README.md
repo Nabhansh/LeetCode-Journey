@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1550-three-consecutive-odds) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1560-most-visited-sector-in-a-circular-track) |
+| [1563-stone-game-v](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1563-stone-game-v) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1572-matrix-diagonal-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1668-maximum-repeating-substring) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
@@ -948,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -1537,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [3227-vowels-game-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3227-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
