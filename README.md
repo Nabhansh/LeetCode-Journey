@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3708-longest-fibonacci-subarray](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3708-longest-fibonacci-subarray) |
 | [3709-design-exam-scores-tracker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3709-design-exam-scores-tracker) |
+| [3724-minimum-operations-to-transform-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3724-minimum-operations-to-transform-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -1188,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3680-generate-schedule](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3680-generate-schedule) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3724-minimum-operations-to-transform-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3724-minimum-operations-to-transform-array) |
 ## Bit Manipulation
 |  |
 | ------- |
