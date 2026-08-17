@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3693-climbing-stairs-ii) |
 | [3698-split-array-with-minimum-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3698-split-array-with-minimum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3708-longest-fibonacci-subarray](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3708-longest-fibonacci-subarray) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
