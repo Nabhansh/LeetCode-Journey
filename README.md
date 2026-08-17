@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3709-design-exam-scores-tracker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3709-design-exam-scores-tracker) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3680-generate-schedule](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3680-generate-schedule) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -1125,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -1193,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Bit Manipulation
 |  |
 | ------- |
