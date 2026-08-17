@@ -1575,6 +1575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1789-primary-department-for-each-employee) |
+| [1795-rearrange-products-table](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1795-rearrange-products-table) |
 | [3421-find-students-who-improved](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3497-analyze-subscription-conversion) |
