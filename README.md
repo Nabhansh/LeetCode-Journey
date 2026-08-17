@@ -611,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3675-minimum-operations-to-transform-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3675-minimum-operations-to-transform-string) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3703-remove-k-balanced-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3703-remove-k-balanced-substrings) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3690-split-and-merge-array-transformation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3690-split-and-merge-array-transformation) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Tree
 |  |
 | ------- |
@@ -1032,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3664-two-letter-card-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3664-two-letter-card-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -1179,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3675-minimum-operations-to-transform-string) |
 | [3680-generate-schedule](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3680-generate-schedule) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1426,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3664-two-letter-card-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3664-two-letter-card-game) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Memoization
 |  |
 | ------- |
