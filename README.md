@@ -899,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3693-climbing-stairs-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3693-climbing-stairs-ii) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1026,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3733-minimum-time-to-complete-all-deliveries) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
