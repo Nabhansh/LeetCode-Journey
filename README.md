@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3690-split-and-merge-array-transformation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3690-split-and-merge-array-transformation) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Tree
 |  |
 | ------- |
@@ -1260,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3599-partition-array-to-minimize-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3599-partition-array-to-minimize-xor) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Queue
 |  |
 | ------- |
@@ -1331,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3698-split-array-with-minimum-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3698-split-array-with-minimum-difference) |
 | [3709-design-exam-scores-tracker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3709-design-exam-scores-tracker) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Graph Theory
 |  |
 | ------- |
