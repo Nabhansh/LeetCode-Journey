@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-minimum-time-to-activate-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3639-minimum-time-to-activate-string) |
 | [3709-design-exam-scores-tracker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3709-design-exam-scores-tracker) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+| [3733-minimum-time-to-complete-all-deliveries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3680-generate-schedule](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3680-generate-schedule) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3733-minimum-time-to-complete-all-deliveries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
