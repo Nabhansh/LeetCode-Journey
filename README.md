@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3468-find-the-number-of-copy-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3479-fruits-into-baskets-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3458-select-k-disjoint-special-substrings) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
 | [3493-properties-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3493-properties-graph) |
 | [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
