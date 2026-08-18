@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3703-remove-k-balanced-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3703-remove-k-balanced-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Hash Table
 |  |
 | ------- |
@@ -1470,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3664-two-letter-card-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3664-two-letter-card-game) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Memoization
 |  |
 | ------- |
@@ -1530,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3638-maximum-balanced-shipments](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3638-maximum-balanced-shipments) |
 | [3676-count-bowl-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3676-count-bowl-subarrays) |
 | [3703-remove-k-balanced-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3703-remove-k-balanced-substrings) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Trie
 |  |
 | ------- |
