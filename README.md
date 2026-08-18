@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3709-design-exam-scores-tracker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3709-design-exam-scores-tracker) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3733-minimum-time-to-complete-all-deliveries) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1161,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -1673,6 +1676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1763-longest-nice-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
 | [3537-fill-a-special-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3537-fill-a-special-grid) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Nim Game
 |  |
 | ------- |
@@ -1690,4 +1694,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Quickselect
+|  |
+| ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 <!---LeetCode Topics End-->
