@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
