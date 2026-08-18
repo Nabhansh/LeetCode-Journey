@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3724-minimum-operations-to-transform-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -896,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3693-climbing-stairs-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3693-climbing-stairs-ii) |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Depth-First Search
 |  |
 | ------- |
