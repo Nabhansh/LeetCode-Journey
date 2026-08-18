@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -1028,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3747-count-distinct-integers-after-removing-zeros) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -1155,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -1225,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3724-minimum-operations-to-transform-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
