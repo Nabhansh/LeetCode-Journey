@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3781-maximum-score-after-binary-swaps) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3781-maximum-score-after-binary-swaps) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Tree
 |  |
 | ------- |
@@ -1114,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3765-complete-prime-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3765-complete-prime-number) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Sorting
 |  |
 | ------- |
