@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
@@ -1161,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1859-sorting-the-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1859-sorting-the-sentence) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -1780,4 +1782,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1859-sorting-the-sentence) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
