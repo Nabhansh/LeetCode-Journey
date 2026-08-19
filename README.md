@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Matrix
 |  |
 | ------- |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Hash Table
 |  |
 | ------- |
@@ -1277,6 +1280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Bit Manipulation
 |  |
 | ------- |
