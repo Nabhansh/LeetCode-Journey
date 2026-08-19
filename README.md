@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3771-total-score-of-dungeon-runs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3771-total-score-of-dungeon-runs) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3776-minimum-moves-to-balance-circular-array) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Tree
 |  |
 | ------- |
