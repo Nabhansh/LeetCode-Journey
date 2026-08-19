@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3771-total-score-of-dungeon-runs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3771-total-score-of-dungeon-runs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3771-total-score-of-dungeon-runs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3771-total-score-of-dungeon-runs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1373,6 +1375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3698-split-array-with-minimum-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3698-split-array-with-minimum-difference) |
 | [3709-design-exam-scores-tracker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3709-design-exam-scores-tracker) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3771-total-score-of-dungeon-runs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3771-total-score-of-dungeon-runs) |
 ## Graph Theory
 |  |
 | ------- |
