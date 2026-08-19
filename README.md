@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3771-total-score-of-dungeon-runs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3771-total-score-of-dungeon-runs) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Matrix
 |  |
 | ------- |
@@ -1199,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3776-minimum-moves-to-balance-circular-array) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -1273,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3776-minimum-moves-to-balance-circular-array) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
