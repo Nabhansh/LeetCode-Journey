@@ -1030,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1837-sum-of-digits-in-base-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
+| [1925-count-square-sum-triples](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1925-count-square-sum-triples) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
@@ -1104,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1534-count-good-triplets) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1925-count-square-sum-triples](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1925-count-square-sum-triples) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
