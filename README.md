@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -1469,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3597-partition-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3597-partition-string) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3703-remove-k-balanced-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3703-remove-k-balanced-substrings) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
 |  |
