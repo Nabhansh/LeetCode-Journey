@@ -612,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
