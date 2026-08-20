@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-score-of-a-split](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3788-maximum-score-of-a-split) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
+| [3804-number-of-centered-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3804-number-of-centered-subarrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3790-smallest-all-ones-multiple](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3790-smallest-all-ones-multiple) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3804-number-of-centered-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3804-number-of-centered-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -1140,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3765-complete-prime-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3765-complete-prime-number) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3804-number-of-centered-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3804-number-of-centered-subarrays) |
 ## Sorting
 |  |
 | ------- |
