@@ -1051,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1952-three-divisors) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
@@ -1129,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1952-three-divisors) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -1381,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1952-three-divisors](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1952-three-divisors) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3044-most-frequent-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3044-most-frequent-prime) |
@@ -1823,4 +1826,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
