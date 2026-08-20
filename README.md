@@ -807,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3790-smallest-all-ones-multiple](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3790-smallest-all-ones-multiple) |
 ## Tree
 |  |
 | ------- |
@@ -1089,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3765-complete-prime-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3790-smallest-all-ones-multiple](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3790-smallest-all-ones-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
