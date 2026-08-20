@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
