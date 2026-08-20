@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3048-earliest-second-to-mark-indices-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -1496,6 +1497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1929-concatenation-of-array) |
 | [2961-double-modular-exponentiation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2961-double-modular-exponentiation) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
