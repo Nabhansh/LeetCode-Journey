@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3804-number-of-centered-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3804-number-of-centered-subarrays) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3805-count-caesar-cipher-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3805-count-caesar-cipher-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-smallest-all-ones-multiple](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3790-smallest-all-ones-multiple) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3804-number-of-centered-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3804-number-of-centered-subarrays) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3805-count-caesar-cipher-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -1096,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3790-smallest-all-ones-multiple) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3805-count-caesar-cipher-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -1583,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3805-count-caesar-cipher-pairs) |
 ## Memoization
 |  |
 | ------- |
