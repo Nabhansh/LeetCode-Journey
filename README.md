@@ -1088,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3765-complete-prime-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -1303,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3781-maximum-score-after-binary-swaps) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bit Manipulation
 |  |
 | ------- |
