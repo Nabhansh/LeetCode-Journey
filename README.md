@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0993-cousins-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -988,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
@@ -1453,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
