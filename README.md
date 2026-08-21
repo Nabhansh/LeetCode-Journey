@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
@@ -1208,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1859-sorting-the-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -1502,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
