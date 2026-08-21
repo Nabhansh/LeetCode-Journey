@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3111-minimum-rectangles-to-cover-points](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3115-maximum-prime-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3115-maximum-prime-difference) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3128-right-triangles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3128-right-triangles) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3048-earliest-second-to-mark-indices-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3143-maximum-points-inside-the-square](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3143-maximum-points-inside-the-square) |
 | [3152-special-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3152-special-array-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3281-maximize-score-of-numbers-in-ranges) |
@@ -1078,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3101-count-alternating-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3101-count-alternating-subarrays) |
 | [3115-maximum-prime-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3115-maximum-prime-difference) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3128-right-triangles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3128-right-triangles) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -1126,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3128-right-triangles](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3128-right-triangles) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
@@ -1358,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3011-find-if-array-can-be-sorted) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3133-minimum-array-end](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3133-minimum-array-end) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1397,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3012-minimize-length-of-array-using-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3044-most-frequent-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3044-most-frequent-prime) |
 | [3115-maximum-prime-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3115-maximum-prime-difference) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3334-find-the-maximum-factor-score-of-array) |
