@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
@@ -1280,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
