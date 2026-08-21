@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1995-count-special-quadruplets) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1995-count-special-quadruplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1995-count-special-quadruplets) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -1603,6 +1605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
