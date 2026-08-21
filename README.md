@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1991-find-the-middle-index-in-array) |
+| [1995-count-special-quadruplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1995-count-special-quadruplets) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1995-count-special-quadruplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1995-count-special-quadruplets) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -1149,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1952-three-divisors) |
+| [1995-count-special-quadruplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1995-count-special-quadruplets) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
