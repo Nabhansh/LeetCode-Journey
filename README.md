@@ -1120,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3618-split-array-by-prime-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3618-split-array-by-prime-indices) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3648-minimum-sensors-to-cover-grid) |
