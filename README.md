@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3819-rotate-non-negative-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3819-rotate-non-negative-elements) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -1143,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3790-smallest-all-ones-multiple) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3805-count-caesar-cipher-pairs) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -1739,6 +1741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1025-divisor-game) |
 | [3227-vowels-game-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3227-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
 | ------- |
@@ -1751,6 +1754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [3227-vowels-game-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3227-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3828-final-element-after-subarray-deletions) |
 ## Database
 |  |
 | ------- |
