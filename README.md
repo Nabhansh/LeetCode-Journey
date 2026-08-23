@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2057-smallest-index-with-equal-value) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2073-time-needed-to-buy-tickets) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1450,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2073-time-needed-to-buy-tickets) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
@@ -1615,6 +1617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2073-time-needed-to-buy-tickets) |
 | [2961-double-modular-exponentiation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2961-double-modular-exponentiation) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
