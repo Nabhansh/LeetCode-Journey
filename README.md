@@ -853,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3804-number-of-centered-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3805-count-caesar-cipher-pairs) |
+| [3829-design-ride-sharing-system](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3829-design-ride-sharing-system) |
 ## Tree
 |  |
 | ------- |
@@ -908,12 +909,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
 | [3709-design-exam-scores-tracker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3709-design-exam-scores-tracker) |
+| [3829-design-ride-sharing-system](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3829-design-ride-sharing-system) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0933-number-of-recent-calls) |
 | [1656-design-an-ordered-stream](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1656-design-an-ordered-stream) |
+| [3829-design-ride-sharing-system](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3829-design-ride-sharing-system) |
 ## Linked List
 |  |
 | ------- |
@@ -1416,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3829-design-ride-sharing-system](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3829-design-ride-sharing-system) |
 ## Monotonic Queue
 |  |
 | ------- |
