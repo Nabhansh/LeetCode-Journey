@@ -627,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1927-sum-game) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -1075,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
@@ -1297,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1927-sum-game) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
@@ -1738,6 +1741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [3227-vowels-game-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3227-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
