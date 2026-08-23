@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2047-number-of-valid-words-in-a-sentence) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -1658,6 +1661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
