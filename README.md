@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3828-final-element-after-subarray-deletions) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3839-number-of-prefix-connected-groups) |
 | [3840-house-robber-v](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3840-house-robber-v) |
+| [3843-first-element-with-unique-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3843-first-element-with-unique-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3805-count-caesar-cipher-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3805-count-caesar-cipher-pairs) |
 | [3829-design-ride-sharing-system](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3829-design-ride-sharing-system) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3839-number-of-prefix-connected-groups) |
+| [3843-first-element-with-unique-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3843-first-element-with-unique-frequency) |
 ## Tree
 |  |
 | ------- |
@@ -1663,6 +1665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3805-count-caesar-cipher-pairs) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3839-number-of-prefix-connected-groups) |
+| [3843-first-element-with-unique-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3843-first-element-with-unique-frequency) |
 ## Memoization
 |  |
 | ------- |
