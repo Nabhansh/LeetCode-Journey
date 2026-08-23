@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2057-smallest-index-with-equal-value) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
