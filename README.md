@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1854-maximum-population-year) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -975,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1668-maximum-repeating-substring) |
+| [1872-stone-game-viii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1837-sum-of-digits-in-base-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1927-sum-game) |
@@ -1498,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1854-maximum-population-year) |
+| [1872-stone-game-viii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -1801,6 +1805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [3227-vowels-game-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3227-vowels-game-in-a-string) |
@@ -1884,6 +1889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1891,6 +1897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 ## Monotonic Stack
 |  |
