@@ -745,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3844-longest-almost-palindromic-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3844-longest-almost-palindromic-substring) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3889-mirror-frequency-distance](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3889-mirror-frequency-distance) |
 ## Hash Table
 |  |
 | ------- |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3839-number-of-prefix-connected-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3843-first-element-with-unique-frequency) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3889-mirror-frequency-distance](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3889-mirror-frequency-distance) |
 ## Tree
 |  |
 | ------- |
@@ -1729,6 +1731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3843-first-element-with-unique-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3848-check-digitorial-permutation) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3889-mirror-frequency-distance](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3889-mirror-frequency-distance) |
 ## Memoization
 |  |
 | ------- |
