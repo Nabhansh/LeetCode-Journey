@@ -1194,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1206,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Enumeration
 |  |
 | ------- |
