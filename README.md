@@ -1188,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3828-final-element-after-subarray-deletions) |
 | [3848-check-digitorial-permutation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3848-check-digitorial-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3871-count-commas-in-range-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3871-count-commas-in-range-ii) |
 ## Combinatorics
 |  |
 | ------- |
