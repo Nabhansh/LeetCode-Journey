@@ -895,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3843-first-element-with-unique-frequency) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3889-mirror-frequency-distance](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3889-mirror-frequency-distance) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Tree
 |  |
 | ------- |
@@ -1252,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-number-of-centered-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3804-number-of-centered-subarrays) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Sorting
 |  |
 | ------- |
@@ -1347,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Greedy
 |  |
 | ------- |
@@ -1732,6 +1735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3848-check-digitorial-permutation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3848-check-digitorial-permutation) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3889-mirror-frequency-distance](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3889-mirror-frequency-distance) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Memoization
 |  |
 | ------- |
