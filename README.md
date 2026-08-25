@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2103-rings-and-rods](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2103-rings-and-rods) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
