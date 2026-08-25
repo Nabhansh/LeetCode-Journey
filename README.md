@@ -738,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3839-number-of-prefix-connected-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3839-number-of-prefix-connected-groups) |
 | [3844-longest-almost-palindromic-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3844-longest-almost-palindromic-substring) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
 | ------- |
