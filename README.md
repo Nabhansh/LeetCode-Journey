@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -1042,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3840-house-robber-v](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3840-house-robber-v) |
 | [3844-longest-almost-palindromic-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3844-longest-almost-palindromic-substring) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1460,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Queue
 |  |
 | ------- |
