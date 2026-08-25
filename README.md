@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3847-find-the-score-difference-in-a-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3862-find-the-smallest-balanced-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Binary Search
 |  |
 | ------- |
@@ -886,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3829-design-ride-sharing-system](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3829-design-ride-sharing-system) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3843-first-element-with-unique-frequency) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Tree
 |  |
 | ------- |
@@ -1414,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1711,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3839-number-of-prefix-connected-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3843-first-element-with-unique-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3848-check-digitorial-permutation) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Memoization
 |  |
 | ------- |
