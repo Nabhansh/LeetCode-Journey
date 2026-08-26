@@ -767,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3889-mirror-frequency-distance](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3889-mirror-frequency-distance) |
+| [3900-longest-balanced-substring-after-one-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3900-longest-balanced-substring-after-one-swap) |
 ## Hash Table
 |  |
 | ------- |
@@ -921,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3889-mirror-frequency-distance](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3889-mirror-frequency-distance) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [3900-longest-balanced-substring-after-one-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3900-longest-balanced-substring-after-one-swap) |
 ## Tree
 |  |
 | ------- |
@@ -1599,6 +1601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-score-of-a-split](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3788-maximum-score-of-a-split) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3862-find-the-smallest-balanced-index) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3891-minimum-increase-to-maximize-special-indices) |
+| [3900-longest-balanced-substring-after-one-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3900-longest-balanced-substring-after-one-swap) |
 ## Graph Theory
 |  |
 | ------- |
