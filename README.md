@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3899-angles-of-a-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3899-angles-of-a-triangle) |
 | [3904-smallest-stable-index-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3905-multi-source-flood-fill) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Binary Search
 |  |
 | ------- |
