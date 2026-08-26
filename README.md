@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3905-multi-source-flood-fill) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Binary Search
 |  |
 | ------- |
@@ -1480,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3891-minimum-increase-to-maximize-special-indices) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Bit Manipulation
 |  |
 | ------- |
