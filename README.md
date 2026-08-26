@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2129-capitalize-the-title) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -1705,6 +1706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2073-time-needed-to-buy-tickets) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2961-double-modular-exponentiation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2961-double-modular-exponentiation) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
