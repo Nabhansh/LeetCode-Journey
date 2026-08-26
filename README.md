@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3891-minimum-increase-to-maximize-special-indices) |
+| [3895-count-digit-appearances](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
 | ------- |
@@ -1223,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
+| [3895-count-digit-appearances](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3895-count-digit-appearances) |
 ## Combinatorics
 |  |
 | ------- |
