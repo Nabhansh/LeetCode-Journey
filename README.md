@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Binary Search
 |  |
 | ------- |
@@ -1069,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3844-longest-almost-palindromic-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3844-longest-almost-palindromic-substring) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1459,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1585,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3771-total-score-of-dungeon-runs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3771-total-score-of-dungeon-runs) |
 | [3788-maximum-score-of-a-split](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3788-maximum-score-of-a-split) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3862-find-the-smallest-balanced-index) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Graph Theory
 |  |
 | ------- |
