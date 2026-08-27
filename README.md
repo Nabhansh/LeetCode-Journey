@@ -718,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2129-capitalize-the-title) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
