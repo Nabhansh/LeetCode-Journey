@@ -1253,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3895-count-digit-appearances) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3899-angles-of-a-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3899-angles-of-a-triangle) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1584,6 +1585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
