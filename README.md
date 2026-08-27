@@ -785,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-mirror-frequency-distance](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3889-mirror-frequency-distance) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3900-longest-balanced-substring-after-one-swap) |
 | [3913-sort-vowels-by-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3913-sort-vowels-by-frequency) |
+| [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 ## Hash Table
 |  |
 | ------- |
