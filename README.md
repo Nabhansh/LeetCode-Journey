@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3919-minimum-cost-to-move-between-indices) |
+| [3923-minimum-generations-to-target-point](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3923-minimum-generations-to-target-point) |
 ## Binary Search
 |  |
 | ------- |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-mirror-frequency-distance](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3889-mirror-frequency-distance) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3900-longest-balanced-substring-after-one-swap) |
+| [3923-minimum-generations-to-target-point](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3923-minimum-generations-to-target-point) |
 ## Tree
 |  |
 | ------- |
@@ -1749,6 +1751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3819-rotate-non-negative-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3819-rotate-non-negative-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3923-minimum-generations-to-target-point](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3923-minimum-generations-to-target-point) |
 ## Topological Sort
 |  |
 | ------- |
