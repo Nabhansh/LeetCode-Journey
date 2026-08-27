@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3905-multi-source-flood-fill](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3905-multi-source-flood-fill) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Binary Search
 |  |
 | ------- |
@@ -1503,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1634,6 +1636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3900-longest-balanced-substring-after-one-swap) |
 | [3904-smallest-stable-index-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3904-smallest-stable-index-ii) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Graph Theory
 |  |
 | ------- |
