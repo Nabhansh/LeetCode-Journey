@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2206-divide-array-into-equal-pairs) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
