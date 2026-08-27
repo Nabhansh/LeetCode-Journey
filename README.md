@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3923-minimum-generations-to-target-point](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3923-minimum-generations-to-target-point) |
 | [3926-count-valid-word-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3926-count-valid-word-occurrences) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Binary Search
 |  |
 | ------- |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3900-longest-balanced-substring-after-one-swap) |
 | [3923-minimum-generations-to-target-point](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3923-minimum-generations-to-target-point) |
 | [3926-count-valid-word-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3926-count-valid-word-occurrences) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Tree
 |  |
 | ------- |
@@ -1261,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3899-angles-of-a-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3899-angles-of-a-triangle) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1511,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3919-minimum-cost-to-move-between-indices) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1594,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Prefix Sum
 |  |
 | ------- |
