@@ -1556,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2206-divide-array-into-equal-pairs) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3011-find-if-array-can-be-sorted) |
