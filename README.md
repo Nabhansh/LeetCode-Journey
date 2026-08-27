@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3923-minimum-generations-to-target-point](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3923-minimum-generations-to-target-point) |
+| [3926-count-valid-word-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3926-count-valid-word-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3900-longest-balanced-substring-after-one-swap) |
 | [3913-sort-vowels-by-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3913-sort-vowels-by-frequency) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
+| [3926-count-valid-word-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3926-count-valid-word-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3900-longest-balanced-substring-after-one-swap) |
 | [3923-minimum-generations-to-target-point](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3923-minimum-generations-to-target-point) |
+| [3926-count-valid-word-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3926-count-valid-word-occurrences) |
 ## Tree
 |  |
 | ------- |
@@ -1824,6 +1827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-mirror-frequency-distance](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3889-mirror-frequency-distance) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3913-sort-vowels-by-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3913-sort-vowels-by-frequency) |
+| [3926-count-valid-word-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3926-count-valid-word-occurrences) |
 ## Memoization
 |  |
 | ------- |
