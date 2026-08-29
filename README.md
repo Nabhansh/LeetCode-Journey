@@ -808,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3913-sort-vowels-by-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3913-sort-vowels-by-frequency) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 | [3926-count-valid-word-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3926-count-valid-word-occurrences) |
+| [3941-password-strength](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3941-password-strength) |
 ## Hash Table
 |  |
 | ------- |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3923-minimum-generations-to-target-point](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3923-minimum-generations-to-target-point) |
 | [3926-count-valid-word-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3926-count-valid-word-occurrences) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [3941-password-strength](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3941-password-strength) |
 ## Tree
 |  |
 | ------- |
