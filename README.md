@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1130,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1544,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
