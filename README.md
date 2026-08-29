@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3964-minimum-lights-to-illuminate-a-road) |
+| [3965-finish-time-of-tasks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3965-finish-time-of-tasks-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
+| [3965-finish-time-of-tasks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3965-finish-time-of-tasks-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1140,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3952-maximum-total-value-of-covered-indices) |
+| [3965-finish-time-of-tasks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3965-finish-time-of-tasks-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1166,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3528-unit-conversion-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3528-unit-conversion-i) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3965-finish-time-of-tasks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3965-finish-time-of-tasks-i) |
 ## Math
 |  |
 | ------- |
