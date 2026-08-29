@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
