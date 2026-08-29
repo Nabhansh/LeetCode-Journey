@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3951-minimum-energy-to-maintain-brightness) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Binary Search
 |  |
 | ------- |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 | [3926-count-valid-word-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3926-count-valid-word-occurrences) |
 | [3941-password-strength](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3941-password-strength) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -1135,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1553,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Bit Manipulation
 |  |
 | ------- |
