@@ -819,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3941-password-strength](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3941-password-strength) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3955-valid-binary-strings-with-cost-limit) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -1305,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3932-count-k-th-roots-in-a-range) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1891,6 +1893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3913-sort-vowels-by-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3913-sort-vowels-by-frequency) |
 | [3926-count-valid-word-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3926-count-valid-word-occurrences) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Memoization
 |  |
 | ------- |
