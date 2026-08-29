@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3952-maximum-total-value-of-covered-indices) |
+| [3964-minimum-lights-to-illuminate-a-road](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Binary Search
 |  |
 | ------- |
@@ -1697,6 +1698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
+| [3964-minimum-lights-to-illuminate-a-road](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Graph Theory
 |  |
 | ------- |
