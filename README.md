@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Binary Search
 |  |
 | ------- |
@@ -1458,6 +1459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3913-sort-vowels-by-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3913-sort-vowels-by-frequency) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Greedy
 |  |
 | ------- |
