@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 | [3965-finish-time-of-tasks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3965-finish-time-of-tasks-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3926-count-valid-word-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3926-count-valid-word-occurrences) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3941-password-strength](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3941-password-strength) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Tree
 |  |
 | ------- |
@@ -1379,6 +1381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3955-valid-binary-strings-with-cost-limit) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1725,6 +1728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3964-minimum-lights-to-illuminate-a-road) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1789,6 +1793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Simulation
 |  |
 | ------- |
