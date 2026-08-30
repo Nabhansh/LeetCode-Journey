@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -1752,6 +1754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3613-minimize-maximum-component-cost](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3613-minimize-maximum-component-cost) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1763,6 +1766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
 | ------- |
