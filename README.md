@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3844-longest-almost-palindromic-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3844-longest-almost-palindromic-substring) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3983-subsequence-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3983-subsequence-after-one-replacement) |
 ## String
 |  |
 | ------- |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3980-minimum-operations-to-transform-binary-string) |
+| [3983-subsequence-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3983-subsequence-after-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
