@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3975-filter-occupied-intervals) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Binary Search
 |  |
 | ------- |
@@ -1181,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3965-finish-time-of-tasks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3965-finish-time-of-tasks-i) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Depth-First Search
 |  |
 | ------- |
