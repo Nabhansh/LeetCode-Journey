@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3975-filter-occupied-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3975-filter-occupied-intervals) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [3979-maximum-valid-pair-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3979-maximum-valid-pair-sum) |
+| [3984-divisible-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3984-divisible-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -1188,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3965-finish-time-of-tasks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3965-finish-time-of-tasks-i) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3980-minimum-operations-to-transform-binary-string) |
+| [3984-divisible-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3984-divisible-game) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1353,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3932-count-k-th-roots-in-a-range) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+| [3984-divisible-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3984-divisible-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1414,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3979-maximum-valid-pair-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3979-maximum-valid-pair-sum) |
+| [3984-divisible-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3984-divisible-game) |
 ## Sorting
 |  |
 | ------- |
@@ -1713,6 +1717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [3984-divisible-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3984-divisible-game) |
 ## Prefix Sum
 |  |
 | ------- |
