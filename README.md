@@ -765,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-strong-password-checker-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2299-strong-password-checker-ii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2315-count-asterisks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2315-count-asterisks) |
+| [2325-decode-the-message](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2325-decode-the-message) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2325-decode-the-message](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2325-decode-the-message) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
