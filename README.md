@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3975-filter-occupied-intervals) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3976-maximum-subarray-sum-after-multiplier) |
+| [3979-maximum-valid-pair-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3979-maximum-valid-pair-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -1408,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [3979-maximum-valid-pair-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3979-maximum-valid-pair-sum) |
 ## Sorting
 |  |
 | ------- |
