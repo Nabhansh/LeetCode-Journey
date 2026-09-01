@@ -1069,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3965-finish-time-of-tasks-i) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1092,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -1242,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3965-finish-time-of-tasks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3965-finish-time-of-tasks-i) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Math
 |  |
 | ------- |
