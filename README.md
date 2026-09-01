@@ -1326,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2409-count-days-spent-together) |
+| [2413-smallest-even-multiple](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
@@ -1756,6 +1757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1952-three-divisors](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3044-most-frequent-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3044-most-frequent-prime) |
