@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
@@ -1599,6 +1600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2952-minimum-number-of-coins-to-be-added) |
