@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3979-maximum-valid-pair-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3979-maximum-valid-pair-sum) |
 | [3984-divisible-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3984-divisible-game) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3987-minimum-total-cost-to-process-all-elements) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3905-multi-source-flood-fill](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3905-multi-source-flood-fill) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1379,6 +1381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3984-divisible-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3984-divisible-game) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3987-minimum-total-cost-to-process-all-elements) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1392,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Enumeration
 |  |
 | ------- |
