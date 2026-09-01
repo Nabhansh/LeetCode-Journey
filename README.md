@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [3979-maximum-valid-pair-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3979-maximum-valid-pair-sum) |
 | [3984-divisible-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3984-divisible-game) |
+| [3987-minimum-total-cost-to-process-all-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -1377,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3932-count-k-th-roots-in-a-range](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3932-count-k-th-roots-in-a-range) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3984-divisible-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3984-divisible-game) |
+| [3987-minimum-total-cost-to-process-all-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1920,6 +1922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3847-find-the-score-difference-in-a-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3923-minimum-generations-to-target-point](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3923-minimum-generations-to-target-point) |
+| [3987-minimum-total-cost-to-process-all-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 ## Topological Sort
 |  |
 | ------- |
