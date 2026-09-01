@@ -782,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2351-first-letter-to-appear-twice) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
@@ -1858,6 +1859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
