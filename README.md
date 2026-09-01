@@ -1382,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3984-divisible-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3984-divisible-game) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3988-create-grid-with-exactly-k-paths-i) |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1663,6 +1664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3980-minimum-operations-to-transform-binary-string) |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
