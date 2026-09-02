@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2418-sort-the-people) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2437-number-of-valid-clock-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2437-number-of-valid-clock-times) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
