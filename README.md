@@ -1413,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3993-maximum-value-of-an-alternating-sequence) |
+| [4002-count-valid-sequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4002-count-valid-sequences) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1427,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3988-create-grid-with-exactly-k-paths-i) |
+| [4002-count-valid-sequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4002-count-valid-sequences) |
 ## Enumeration
 |  |
 | ------- |
