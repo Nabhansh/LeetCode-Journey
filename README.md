@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Binary Search
 |  |
 | ------- |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3983-subsequence-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3983-subsequence-after-one-replacement) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## String
 |  |
 | ------- |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3980-minimum-operations-to-transform-binary-string) |
 | [3983-subsequence-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3983-subsequence-after-one-replacement) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Hash Table
 |  |
 | ------- |
@@ -1695,6 +1698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3980-minimum-operations-to-transform-binary-string) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Bit Manipulation
 |  |
 | ------- |
