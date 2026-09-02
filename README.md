@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2404-most-frequent-even-element) |
 | [2408-design-sql](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2408-design-sql) |
 | [2418-sort-the-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2418-sort-the-people) |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
