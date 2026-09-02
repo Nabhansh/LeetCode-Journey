@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -1393,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3848-check-digitorial-permutation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3848-check-digitorial-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 | [3895-count-digit-appearances](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3895-count-digit-appearances) |
