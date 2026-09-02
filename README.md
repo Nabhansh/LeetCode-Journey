@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4001-aggregate-two-time-series](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4001-aggregate-two-time-series) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Binary Search
 |  |
 | ------- |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3932-count-k-th-roots-in-a-range) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1703,6 +1705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3998-transform-binary-string-using-subsequence-sort) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1847,6 +1850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Graph Theory
 |  |
 | ------- |
