@@ -1,0 +1,1 @@
+bool uniformArray(int* n, int s) { return 1; }
