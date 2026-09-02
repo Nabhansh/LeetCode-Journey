@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4001-aggregate-two-time-series](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4001-aggregate-two-time-series) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1851,6 +1852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -2225,6 +2227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3479-fruits-into-baskets-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Concurrency
 |  |
 | ------- |
@@ -2237,6 +2240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Minimax
 |  |
 | ------- |
@@ -2266,6 +2270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
 | [3537-fill-a-special-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3537-fill-a-special-grid) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Nim Game
 |  |
 | ------- |
@@ -2312,4 +2317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Merge Sort
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
