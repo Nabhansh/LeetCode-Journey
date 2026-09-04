@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3895-count-digit-appearances) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3899-angles-of-a-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3899-angles-of-a-triangle) |
+| [3903-smallest-stable-index-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3905-multi-source-flood-fill) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3909-compare-sums-of-bitonic-parts) |
@@ -1866,6 +1867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3862-find-the-smallest-balanced-index](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3862-find-the-smallest-balanced-index) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3900-longest-balanced-substring-after-one-swap) |
+| [3903-smallest-stable-index-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3904-smallest-stable-index-ii) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3933-largest-local-values-in-a-matrix-ii) |
