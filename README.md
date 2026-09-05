@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3983-subsequence-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3983-subsequence-after-one-replacement) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4001-aggregate-two-time-series](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4001-aggregate-two-time-series) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## String
 |  |
 | ------- |
@@ -1623,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3975-filter-occupied-intervals) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Greedy
 |  |
 | ------- |
@@ -1730,6 +1733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Bit Manipulation
 |  |
 | ------- |
