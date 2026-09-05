@@ -826,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-number-of-valid-clock-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2437-number-of-valid-clock-times) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2451-odd-string-difference) |
+| [2490-circular-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2490-circular-sentence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
