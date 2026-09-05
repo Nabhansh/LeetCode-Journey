@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4001-aggregate-two-time-series](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4001-aggregate-two-time-series) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Binary Search
 |  |
 | ------- |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3932-count-k-th-roots-in-a-range) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1876,6 +1878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Graph Theory
 |  |
 | ------- |
