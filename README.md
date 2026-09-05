@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4015-weighted-sum-of-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4015-weighted-sum-of-a-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -1116,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3965-finish-time-of-tasks-i) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
+| [4015-weighted-sum-of-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4015-weighted-sum-of-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1291,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3965-finish-time-of-tasks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3965-finish-time-of-tasks-i) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
+| [4015-weighted-sum-of-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4015-weighted-sum-of-a-tree) |
 ## Math
 |  |
 | ------- |
