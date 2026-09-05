@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2465-number-of-distinct-averages) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
