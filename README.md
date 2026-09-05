@@ -1376,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2485-find-the-pivot-integer](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2485-find-the-pivot-integer) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
@@ -1859,6 +1860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2485-find-the-pivot-integer](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2485-find-the-pivot-integer) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
