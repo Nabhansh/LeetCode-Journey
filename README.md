@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2451-odd-string-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2451-odd-string-difference) |
 | [2465-number-of-distinct-averages](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1574,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2952-minimum-number-of-coins-to-be-added) |
