@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4015-weighted-sum-of-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4015-weighted-sum-of-a-tree) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Binary Search
 |  |
 | ------- |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3932-count-k-th-roots-in-a-range](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3932-count-k-th-roots-in-a-range) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3988-create-grid-with-exactly-k-paths-i) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1264,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3980-minimum-operations-to-transform-binary-string) |
 | [3984-divisible-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3984-divisible-game) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Depth-First Search
 |  |
 | ------- |
