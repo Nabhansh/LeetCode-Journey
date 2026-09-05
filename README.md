@@ -912,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3980-minimum-operations-to-transform-binary-string) |
 | [3983-subsequence-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3983-subsequence-after-one-replacement) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3998-transform-binary-string-using-subsequence-sort) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1446,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [4002-count-valid-sequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4002-count-valid-sequences) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1513,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3979-maximum-valid-pair-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3979-maximum-valid-pair-sum) |
 | [3984-divisible-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3984-divisible-game) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Sorting
 |  |
 | ------- |
