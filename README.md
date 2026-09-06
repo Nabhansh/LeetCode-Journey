@@ -712,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0696-count-binary-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0748-shortest-completing-word) |
@@ -1210,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1137-n-th-tribonacci-number) |
