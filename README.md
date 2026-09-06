@@ -708,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4001-aggregate-two-time-series](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4001-aggregate-two-time-series) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4026-maximum-gap-between-stations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4026-maximum-gap-between-stations) |
 ## String
 |  |
 | ------- |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3983-subsequence-after-one-replacement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3983-subsequence-after-one-replacement) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4026-maximum-gap-between-stations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4026-maximum-gap-between-stations) |
 ## Hash Table
 |  |
 | ------- |
@@ -1770,6 +1772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
+| [4026-maximum-gap-between-stations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4026-maximum-gap-between-stations) |
 ## Bit Manipulation
 |  |
 | ------- |
