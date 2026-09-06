@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4015-weighted-sum-of-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4015-weighted-sum-of-a-tree) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Binary Search
 |  |
 | ------- |
@@ -1768,6 +1769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Bit Manipulation
 |  |
 | ------- |
