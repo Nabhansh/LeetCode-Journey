@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
+| [4022-k-th-digit-in-infinite-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4022-k-th-digit-in-infinite-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1467,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [4002-count-valid-sequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4002-count-valid-sequences) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4022-k-th-digit-in-infinite-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4022-k-th-digit-in-infinite-string) |
 ## Combinatorics
 |  |
 | ------- |
