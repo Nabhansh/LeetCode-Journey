@@ -858,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
