@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0929-unique-email-addresses) |
+| [0940-distinct-subsequences-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
@@ -1225,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
+| [0940-distinct-subsequences-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
