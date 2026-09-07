@@ -1423,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2578-split-with-minimum-sum) |
 | [2582-pass-the-pillow](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2582-pass-the-pillow) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2591-distribute-money-to-maximum-children) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
@@ -1729,6 +1730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2591-distribute-money-to-maximum-children) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2952-minimum-number-of-coins-to-be-added) |
