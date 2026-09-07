@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
@@ -1040,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2549-count-distinct-numbers-on-board) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1535,6 +1537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2427-number-of-common-factors) |
 | [2437-number-of-valid-clock-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2437-number-of-valid-clock-times) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
