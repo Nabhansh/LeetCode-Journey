@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2614-prime-in-diagonal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2614-prime-in-diagonal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2614-prime-in-diagonal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2614-prime-in-diagonal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3030-find-the-grid-of-region-average](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3030-find-the-grid-of-region-average) |
 | [3044-most-frequent-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3044-most-frequent-prime) |
@@ -1429,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2582-pass-the-pillow) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2614-prime-in-diagonal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2614-prime-in-diagonal) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2939-maximum-xor-product) |
@@ -1889,6 +1892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2614-prime-in-diagonal) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3044-most-frequent-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3044-most-frequent-prime) |
