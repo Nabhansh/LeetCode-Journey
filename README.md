@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2614-prime-in-diagonal) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2614-prime-in-diagonal) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3030-find-the-grid-of-region-average](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3030-find-the-grid-of-region-average) |
 | [3044-most-frequent-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3044-most-frequent-prime) |
