@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0696-count-binary-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0748-shortest-completing-word) |
@@ -1402,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0728-self-dividing-numbers) |
