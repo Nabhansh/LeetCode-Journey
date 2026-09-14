@@ -2361,6 +2361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0175-combine-two-tables) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1075-project-employees-i) |
