@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2465-number-of-distinct-averages) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2562-find-the-array-concatenation-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-number-of-valid-clock-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2437-number-of-valid-clock-times) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2451-odd-string-difference) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2490-circular-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2506-count-pairs-of-similar-strings) |
@@ -1293,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1668-maximum-repeating-substring) |
 | [1872-stone-game-viii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -1792,6 +1795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2591-distribute-money-to-maximum-children) |
