@@ -1267,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0876-middle-of-the-linked-list) |
@@ -2506,6 +2507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Bracket Sequences
