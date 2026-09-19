@@ -2550,6 +2550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0202-happy-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
