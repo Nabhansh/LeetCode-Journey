@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0704-binary-search) |
@@ -992,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
@@ -2096,6 +2098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
