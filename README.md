@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0832-flipping-an-image) |
@@ -1282,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0876-middle-of-the-linked-list) |
@@ -2343,6 +2345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
@@ -2534,6 +2537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Bracket Sequences
