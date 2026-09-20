@@ -936,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3458-select-k-disjoint-special-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
+| [3498-reverse-degree-of-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -2172,6 +2173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3412-find-mirror-score-of-a-string) |
 | [3433-count-mentions-per-user](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
+| [3498-reverse-degree-of-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3597-partition-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3597-partition-string) |
