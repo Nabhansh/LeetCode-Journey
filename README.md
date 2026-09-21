@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0257-binary-tree-paths) |
 | [0696-count-binary-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0748-shortest-completing-word) |
@@ -1198,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -1240,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -1402,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0257-binary-tree-paths) |
 | [0733-flood-fill](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0872-leaf-similar-trees) |
@@ -2385,6 +2389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3376-minimum-time-to-break-locks-i) |
