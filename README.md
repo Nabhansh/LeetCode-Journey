@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0704-binary-search) |
@@ -1269,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
@@ -2036,6 +2038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
