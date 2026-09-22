@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0704-binary-search) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0888-fair-candy-swap) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0832-flipping-an-image) |
@@ -1011,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
@@ -1699,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0888-fair-candy-swap) |
