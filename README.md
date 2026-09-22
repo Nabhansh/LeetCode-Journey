@@ -780,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0696-count-binary-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0748-shortest-completing-word) |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
@@ -2259,6 +2261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0819-most-common-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
