@@ -788,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0696-count-binary-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0748-shortest-completing-word) |
@@ -1486,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1980,6 +1982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0868-binary-gap) |
