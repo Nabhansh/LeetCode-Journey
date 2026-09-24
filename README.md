@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3531-count-covered-buildings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3531-count-covered-buildings) |
 | [3537-fill-a-special-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3537-fill-a-special-grid) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3552-grid-teleportation-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3552-grid-teleportation-traversal) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3566-partition-array-into-two-equal-product-subsets) |
@@ -1615,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3588-find-maximum-area-of-a-triangle) |
