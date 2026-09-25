@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0993-cousins-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1078-occurrences-after-bigram) |
+| [1096-brace-expansion-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1002-find-common-characters) |
+| [1096-brace-expansion-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -1752,6 +1755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
@@ -2437,6 +2441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1598-crawler-log-folder) |
@@ -2471,6 +2476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3376-minimum-time-to-break-locks-i) |
