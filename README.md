@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1773-count-items-matching-a-rule) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
