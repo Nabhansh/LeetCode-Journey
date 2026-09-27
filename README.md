@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0704-binary-search) |
@@ -1046,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
