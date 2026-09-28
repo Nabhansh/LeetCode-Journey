@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0704-binary-search) |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
@@ -2462,6 +2464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
@@ -2631,6 +2634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3523-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3523-make-array-non-decreasing) |
 | [3638-maximum-balanced-shipments](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3638-maximum-balanced-shipments) |
