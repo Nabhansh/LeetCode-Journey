@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0704-binary-search) |
@@ -1803,6 +1804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0888-fair-candy-swap) |
@@ -1932,6 +1934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0976-largest-perimeter-triangle) |
@@ -2626,6 +2629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
