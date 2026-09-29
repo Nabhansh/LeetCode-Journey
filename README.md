@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0704-binary-search) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0832-flipping-an-image) |
@@ -2303,6 +2305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0867-transpose-matrix) |
