@@ -1289,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -1339,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -1394,6 +1396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
@@ -1514,6 +1517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0872-leaf-similar-trees) |
@@ -2475,6 +2479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
