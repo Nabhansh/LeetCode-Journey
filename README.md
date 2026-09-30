@@ -2598,6 +2598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0511-game-play-analysis-i) |
+| [0577-employee-bonus](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0577-employee-bonus) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1075-project-employees-i) |
