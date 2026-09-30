@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0704-binary-search) |
@@ -1082,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0706-design-hashmap) |
@@ -1821,6 +1823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0888-fair-candy-swap) |
@@ -2277,6 +2280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -2386,6 +2390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
