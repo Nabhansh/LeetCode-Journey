@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0704-binary-search) |
@@ -1963,6 +1964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0976-largest-perimeter-triangle) |
