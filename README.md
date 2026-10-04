@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0705-design-hashset) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0832-flipping-an-image) |
