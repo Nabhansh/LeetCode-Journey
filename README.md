@@ -837,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0748-shortest-completing-word) |
@@ -1432,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1025-divisor-game) |
@@ -1969,6 +1971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0976-largest-perimeter-triangle) |
@@ -2546,6 +2549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
@@ -2772,6 +2776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
