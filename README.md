@@ -2633,6 +2633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0037-sudoku-solver) |
+| [0052-n-queens-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
@@ -2895,6 +2896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0037-sudoku-solver) |
+| [0052-n-queens-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
