@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0119-pascals-triangle-ii) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0463-island-perimeter](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0661-image-smoother) |
@@ -1085,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0169-majority-element) |
@@ -2624,6 +2627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0257-binary-tree-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
@@ -2881,4 +2885,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0563-binary-tree-tilt) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
