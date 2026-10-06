@@ -823,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0168-excel-sheet-column-title) |
@@ -1454,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0119-pascals-triangle-ii) |
@@ -1999,6 +2001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0561-array-partition) |
@@ -2802,6 +2805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0231-power-of-two) |
