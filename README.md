@@ -825,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0065-valid-number) |
+| [0087-scramble-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0168-excel-sheet-column-title) |
@@ -1457,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0044-wildcard-matching) |
+| [0087-scramble-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0119-pascals-triangle-ii) |
