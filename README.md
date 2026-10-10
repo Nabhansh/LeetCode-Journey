@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2293-min-max-game) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2347-best-poker-hand) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -1928,6 +1931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2363-merge-similar-items) |
@@ -2041,6 +2045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
