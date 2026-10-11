@@ -2899,6 +2899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1025-divisor-game) |
 ## Z Algorithm
 |  |
 | ------- |
