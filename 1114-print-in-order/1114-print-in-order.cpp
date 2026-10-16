@@ -1,36 +1,35 @@
-#include <mutex>
-#include <condition_variable>
-
 class Foo {
 private:
-    std::mutex mtx;
-    std::condition_variable cv;
-    int state;
+    mutex mtx;
+    condition_variable cv;
+    int step;
 
 public:
     Foo() {
-        state = 1;
+        step = 1;
     }
 
     void first(function<void()> printFirst) {
-        unique_lock<mutex> lock(mtx);
         printFirst();
-        state = 2;
+
+        unique_lock<mutex> lock(mtx);
+        step = 2;
         cv.notify_all();
     }
 
     void second(function<void()> printSecond) {
         unique_lock<mutex> lock(mtx);
-        cv.wait(lock, [this] { return state >= 2; });
+        cv.wait(lock, [&]() { return step >= 2; });
 
         printSecond();
-        state = 3;
+
+        step = 3;
         cv.notify_all();
     }
 
     void third(function<void()> printThird) {
         unique_lock<mutex> lock(mtx);
-        cv.wait(lock, [this] { return state >= 3; });
+        cv.wait(lock, [&]() { return step >= 3; });
 
         printThird();
     }
