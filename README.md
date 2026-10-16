@@ -2858,11 +2858,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1859-sorting-the-sentence) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0455-assign-cookies) |
+| [1122-relative-sort-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Prime Factorization
 |  |
