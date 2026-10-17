@@ -2873,6 +2873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [1175-prime-arrangements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1175-prime-arrangements) |
 | [1952-three-divisors](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1952-three-divisors) |
 ## Euclidean Algorithm
 |  |
@@ -2935,4 +2936,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0126-word-ladder-ii) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
