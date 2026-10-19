@@ -1,20 +1,10 @@
 class Solution {
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {
-        int less = 0, equal = 0;
-
-        for (int x : nums) {
-            if (x < target)
-                less++;
-            else if (x == target)
-                equal++;
-        }
-
-        vector<int> ans;
-
-        for (int i = 0; i < equal; i++)
-            ans.push_back(less + i);
-
-        return ans;
+        int left = ranges::count_if(nums, [&](int x) { return x < target; });  // bisect_left: the values that come before the targets
+        int right = ranges::count_if(nums, [&](int x) { return x <= target; });  // bisect_right: the values up to the last target
+        vector<int> indices(right - left);
+        iota(indices.begin(), indices.end(), left);
+        return indices;
     }
 };
