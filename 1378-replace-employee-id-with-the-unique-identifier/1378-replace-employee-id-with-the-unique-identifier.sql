@@ -1,6 +1,6 @@
 SELECT
-    eu.unique_id,
+    u.unique_id,
     e.name
 FROM Employees e
-LEFT JOIN EmployeeUNI eu
-ON e.id = eu.id;
+LEFT JOIN EmployeeUNI u
+    ON e.id = u.id;
