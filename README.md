@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3886-sum-of-sortable-integers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3886-sum-of-sortable-integers) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3895-count-digit-appearances](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3895-count-digit-appearances) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -1796,6 +1797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
+| [3886-sum-of-sortable-integers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3886-sum-of-sortable-integers) |
 | [3895-count-digit-appearances](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3895-count-digit-appearances) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3899-angles-of-a-triangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3899-angles-of-a-triangle) |
@@ -1875,6 +1877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-number-of-centered-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3804-number-of-centered-subarrays) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
+| [3886-sum-of-sortable-integers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3886-sum-of-sortable-integers) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -2015,6 +2018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3886-sum-of-sortable-integers) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3913-sort-vowels-by-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3913-sort-vowels-by-frequency) |
