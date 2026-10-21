@@ -1,22 +1,23 @@
 class Solution {
 public:
-    int findTheDistanceValue(vector<int>& arr1, vector<int>& arr2, int d) {
-        int ans = 0;
+    int findTheDistanceValue(vector<int>& arr1,
+                             vector<int>& arr2, int d) {
+        int count = 0;
 
-        for (int x : arr1) {
+        for (int a : arr1) {
             bool valid = true;
 
-            for (int y : arr2) {
-                if (abs(x - y) <= d) {
+            for (int b : arr2) {
+                if (abs(a - b) <= d) {
                     valid = false;
                     break;
                 }
             }
 
             if (valid)
-                ans++;
+                count++;
         }
 
-        return ans;
+        return count;
     }
 };
