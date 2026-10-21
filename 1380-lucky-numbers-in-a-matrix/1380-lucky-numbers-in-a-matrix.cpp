@@ -7,24 +7,22 @@ public:
         vector<int> ans;
 
         for (int i = 0; i < m; i++) {
-            int col = 0;
+            int minCol = min_element(
+                matrix[i].begin(), matrix[i].end()
+            ) - matrix[i].begin();
 
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][j] < matrix[i][col])
-                    col = j;
-            }
+            int value = matrix[i][minCol];
+            bool lucky = true;
 
-            bool ok = true;
-
-            for (int k = 0; k < m; k++) {
-                if (matrix[k][col] > matrix[i][col]) {
-                    ok = false;
+            for (int r = 0; r < m; r++) {
+                if (matrix[r][minCol] > value) {
+                    lucky = false;
                     break;
                 }
             }
 
-            if (ok)
-                ans.push_back(matrix[i][col]);
+            if (lucky)
+                ans.push_back(value);
         }
 
         return ans;
