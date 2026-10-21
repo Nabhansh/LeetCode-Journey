@@ -1,32 +1,20 @@
 class Solution {
 public:
-    int digitSum(int x) {
+    int countLargestGroup(int n, int maxi = 0, int count = 0) {
+        unordered_map <int,int> mpp;
+        for (int i = 1 ; i <= n ; i++) {
+            int x = digsum(i);
+            maxi = max(maxi, ++mpp[x]);
+        }
+        for (auto& p : mpp) if (p.second == maxi) ++count;
+        return count;
+    }
+    int digsum(int n) {
         int sum = 0;
-        while (x) {
-            sum += x % 10;
-            x /= 10;
+        while (n) {
+            sum += n % 10;
+            n /= 10;
         }
         return sum;
-    }
-
-    int countLargestGroup(int n) {
-        unordered_map<int, int> cnt;
-
-        for (int i = 1; i <= n; i++)
-            cnt[digitSum(i)]++;
-
-        int mx = 0;
-
-        for (auto &p : cnt)
-            mx = max(mx, p.second);
-
-        int ans = 0;
-
-        for (auto &p : cnt) {
-            if (p.second == mx)
-                ans++;
-        }
-
-        return ans;
     }
 };
