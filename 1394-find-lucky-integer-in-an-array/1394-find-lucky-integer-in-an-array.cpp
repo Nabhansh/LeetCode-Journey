@@ -8,7 +8,7 @@ public:
 
         int ans = -1;
 
-        for (auto &p : freq) {
+        for (auto& p : freq) {
             if (p.first == p.second)
                 ans = max(ans, p.first);
         }
