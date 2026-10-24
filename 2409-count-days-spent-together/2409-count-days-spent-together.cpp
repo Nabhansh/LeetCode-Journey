@@ -1,20 +1,13 @@
 class Solution {
 public:
-    int getDay(string s) {
-        vector<int> days = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
-        int month = stoi(s.substr(0, 2));
-        int day = stoi(s.substr(3, 2));
+    int countDaysTogether(string a, string b, string c, string d) {
+        return max(0, min(f(b), f(d)) - max(f(a), f(c)) + 1);
+    }
 
-        for (int i = 0; i < month - 1; i++)
-            day += days[i];
+    int f(auto& s) {
+        int m = (s[0] - '0') * 10 + (s[1] - '0');
+        int q = (s[3] - '0') * 10 + (s[4] - '0');
 
-        return day;
-    }
-
-    int countDaysTogether(string arriveAlice, string leaveAlice, string arriveBob, string leaveBob) {
-        int start = max(getDay(arriveAlice), getDay(arriveBob));
-        int end = min(getDay(leaveAlice), getDay(leaveBob));
-
-        return max(0, end - start + 1);
-    }
+        return (275 * m) / 9 - 2 * ((m + 9) / 12) + q - 30;
+    }
 };
