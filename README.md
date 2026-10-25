@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0993-cousins-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0999-available-captures-for-rook) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1030-matrix-cells-in-distance-order) |
+| [1254-number-of-closed-islands](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
@@ -1603,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2331-evaluate-boolean-binary-tree) |
