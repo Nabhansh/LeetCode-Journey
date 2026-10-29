@@ -1,27 +1,24 @@
 class Solution {
 public:
-    bool canFormArray(vector<int>& arr,
-                      vector<vector<int>>& pieces) {
-        unordered_map<int, vector<int>*> pieceByFirst;
+    bool canFormArray(vector<int>& arr, vector<vector<int>>& pieces) {
+        unordered_map<int, vector<int>> mp;
 
         for (auto& piece : pieces)
-            pieceByFirst[piece[0]] = &piece;
+            mp[piece[0]] = piece;
 
-        int index = 0;
+        int i = 0;
 
-        while (index < arr.size()) {
-            if (!pieceByFirst.count(arr[index]))
+        while (i < arr.size()) {
+            if (!mp.count(arr[i]))
                 return false;
 
-            vector<int>& piece = *pieceByFirst[arr[index]];
+            vector<int>& piece = mp[arr[i]];
 
-            for (int value : piece) {
-                if (index >= arr.size() ||
-                    arr[index] != value) {
+            for (int x : piece) {
+                if (i >= arr.size() || arr[i] != x)
                     return false;
-                }
 
-                ++index;
+                i++;
             }
         }
 
