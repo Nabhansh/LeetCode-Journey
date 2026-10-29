@@ -1,18 +1,17 @@
 class Solution {
 public:
     vector<int> frequencySort(vector<int>& nums) {
-        unordered_map<int, int> frequency;
+        unordered_map<int, int> freq;
 
-        for (int value : nums)
-            ++frequency[value];
+        for (int x : nums)
+            freq[x]++;
 
-        sort(nums.begin(), nums.end(),
-             [&](int a, int b) {
-                 if (frequency[a] != frequency[b])
-                     return frequency[a] < frequency[b];
+        sort(nums.begin(), nums.end(), [&](int a, int b) {
+            if (freq[a] != freq[b])
+                return freq[a] < freq[b];
 
-                 return a > b;
-             });
+            return a > b;
+        });
 
         return nums;
     }
