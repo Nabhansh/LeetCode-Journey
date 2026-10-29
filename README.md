@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3828-final-element-after-subarray-deletions) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3839-number-of-prefix-connected-groups) |
 | [3840-house-robber-v](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3840-house-robber-v) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3843-first-element-with-unique-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3862-find-the-smallest-balanced-index) |
@@ -1085,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3805-count-caesar-cipher-pairs) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3839-number-of-prefix-connected-groups) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3844-longest-almost-palindromic-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3844-longest-almost-palindromic-substring) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -1372,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3965-finish-time-of-tasks-i) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 | [4015-weighted-sum-of-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4015-weighted-sum-of-a-tree) |
@@ -1626,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3528-unit-conversion-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3528-unit-conversion-i) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3965-finish-time-of-tasks-i) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 | [4015-weighted-sum-of-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4015-weighted-sum-of-a-tree) |
@@ -2214,6 +2218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -2784,6 +2789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3479-fruits-into-baskets-iii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Concurrency
 |  |
@@ -2798,6 +2804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Minimax
 |  |
@@ -2835,6 +2842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
 | [3537-fill-a-special-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3537-fill-a-special-grid) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Nim Game
 |  |
