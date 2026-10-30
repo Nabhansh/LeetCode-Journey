@@ -1,12 +1,12 @@
 class OrderedStream {
 private:
     vector<string> stream;
-    int pointer;
+    int ptr;
 
 public:
     OrderedStream(int n) {
         stream.resize(n + 1);
-        pointer = 1;
+        ptr = 1;
     }
 
     vector<string> insert(int idKey, string value) {
@@ -14,10 +14,9 @@ public:
 
         vector<string> result;
 
-        while (pointer < stream.size() &&
-               !stream[pointer].empty()) {
-            result.push_back(stream[pointer]);
-            ++pointer;
+        while (ptr < stream.size() && !stream[ptr].empty()) {
+            result.push_back(stream[ptr]);
+            ptr++;
         }
 
         return result;
