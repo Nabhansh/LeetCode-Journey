@@ -1,16 +1,17 @@
 class Solution {
 public:
     int countGoodRectangles(vector<vector<int>>& rectangles) {
-        int mx = 0;
+        int maxSide = 0;
         int ans = 0;
 
         for (auto& r : rectangles) {
             int side = min(r[0], r[1]);
 
-            if (side > mx) {
-                mx = side;
+            if (side > maxSide) {
+                maxSide = side;
                 ans = 1;
-            } else if (side == mx) {
+            }
+            else if (side == maxSide) {
                 ans++;
             }
         }
