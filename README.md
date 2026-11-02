@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0495-teemo-attacking) |
@@ -1653,6 +1654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0507-perfect-number) |
@@ -1909,6 +1911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nabhansh/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
