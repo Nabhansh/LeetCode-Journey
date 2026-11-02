@@ -5,8 +5,9 @@ public:
 
         ans[0] = first;
 
-        for (int i = 0; i < encoded.size(); i++)
-            ans[i + 1] = ans[i] ^ encoded[i];
+        for (int i = 0; i < encoded.size(); i++) {
+            ans[i + 1] = encoded[i] ^ ans[i];
+        }
 
         return ans;
     }
