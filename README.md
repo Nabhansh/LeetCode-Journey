@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
 | [3489-zero-array-transformation-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3489-zero-array-transformation-iv) |
 | [3493-properties-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3493-properties-graph) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3523-make-array-non-decreasing](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3523-make-array-non-decreasing) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-design-task-manager](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3408-design-task-manager) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3620-network-recovery-pathways](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3484-design-spreadsheet](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3484-design-spreadsheet) |
 | [3493-properties-graph](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3493-properties-graph) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3508-implement-router](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3508-implement-router) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -1553,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3489-zero-array-transformation-iv](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3489-zero-array-transformation-iv) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
@@ -1778,6 +1782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3468-find-the-number-of-copy-arrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3468-find-the-number-of-copy-arrays) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
@@ -2413,6 +2418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
