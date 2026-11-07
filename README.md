@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1732-find-the-highest-altitude](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1773-count-items-matching-a-rule) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1800-maximum-ascending-subarray-sum) |
