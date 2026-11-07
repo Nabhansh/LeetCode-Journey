@@ -1,24 +1,21 @@
 class Solution {
 public:
-    int count(int n) {
-        int sum = 0;
-        while (n) {
-            sum += n % 10;
-            n /= 10;
-        }
-        return sum;
-    }
-
     int countBalls(int lowLimit, int highLimit) {
-        int boxes[50] = {};
+        unordered_map<int, int> freq;
+
         int ans = 0;
 
         for (int i = lowLimit; i <= highLimit; i++) {
-            boxes[count(i)]++;
-        }
+            int x = i;
+            int sum = 0;
 
-        for (int i = 0; i < 50; i++) {
-            ans = max(ans, boxes[i]);
+            while (x > 0) {
+                sum += x % 10;
+                x /= 10;
+            }
+
+            freq[sum]++;
+            ans = max(ans, freq[sum]);
         }
 
         return ans;
