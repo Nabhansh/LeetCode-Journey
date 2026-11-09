@@ -1,14 +1,18 @@
 class Solution {
 public:
     bool checkOnesSegment(string s) {
-        bool found = false;
+        bool seenOne = false;
+        bool seenZeroAfterOne = false;
 
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] == '1') {
-                if (found && i > 0 && s[i - 1] == '0')
+        for (char c : s) {
+            if (c == '1') {
+                if (seenZeroAfterOne)
                     return false;
 
-                found = true;
+                seenOne = true;
+            }
+            else if (seenOne) {
+                seenZeroAfterOne = true;
             }
         }
 
