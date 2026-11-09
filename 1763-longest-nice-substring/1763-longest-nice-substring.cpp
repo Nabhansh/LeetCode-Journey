@@ -1,25 +1,23 @@
 class Solution {
 public:
-    string longestNiceSubstring(string s) 
-    {
-        if(s.size() < 2)           //Base Case
-        {
-            return "";
-        }
-        unordered_set<char> st(s.begin(),s.end());    //Pehle ek set me daaldo puri string ko
+    string longestNiceSubstring(string s) {
+        string ans = "";
 
-        for(int i=0;i<s.size();i++)
-        {
-            char c = s[i];
-            if(st.count(tolower(c)) && st.count(toupper(c)))     //phhir count krlo agar lower and upper hai toh
-            {
-                continue;                                        //continue mtlb shi chal rha hai 
+        for (int i = 0; i < s.size(); i++) {
+            int lower = 0, upper = 0;
+
+            for (int j = i; j < s.size(); j++) {
+                if (islower(s[j]))
+                    lower |= (1 << (s[j] - 'a'));
+                else
+                    upper |= (1 << (s[j] - 'A'));
+
+                if (lower == upper && j - i + 1 > ans.size()) {
+                    ans = s.substr(i, j - i + 1);
+                }
             }
-            string left = longestNiceSubstring(s.substr(0, i));   //Left Substring bnao i-1 tk
-            string right = longestNiceSubstring(s.substr(i+1));   //Right Substring bnao i+1 se end tk
-
-            return (left.size() >= right.size()) ? left : right;  //Size Comparison
         }
-        return s;        //Return String
-    }  
+
+        return ans;
+    }
 };
