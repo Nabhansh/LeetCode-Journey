@@ -1,13 +1,12 @@
 class Solution {
 public:
-    int countMatches(vector<vector<string>>& items, string ruleKey, string ruleValue) {
-        int index;
+    int countMatches(vector<vector<string>>& items,
+                     string ruleKey, string ruleValue) {
+        int index = 0;
 
-        if (ruleKey == "type")
-            index = 0;
-        else if (ruleKey == "color")
+        if (ruleKey == "color")
             index = 1;
-        else
+        else if (ruleKey == "name")
             index = 2;
 
         int ans = 0;
