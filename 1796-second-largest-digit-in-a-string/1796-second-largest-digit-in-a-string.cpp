@@ -12,7 +12,7 @@ public:
                     second = largest;
                     largest = digit;
                 }
-                else if (digit > second && digit < largest) {
+                else if (digit < largest && digit > second) {
                     second = digit;
                 }
             }
