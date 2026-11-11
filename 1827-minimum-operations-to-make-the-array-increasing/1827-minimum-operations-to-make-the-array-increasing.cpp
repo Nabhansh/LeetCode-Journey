@@ -6,9 +6,7 @@ public:
         for (int i = 1; i < nums.size(); i++) {
             if (nums[i] <= nums[i - 1]) {
                 int required = nums[i - 1] + 1;
-
                 operations += required - nums[i];
-
                 nums[i] = required;
             }
         }
