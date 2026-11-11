@@ -1,11 +1,12 @@
 class Solution {
 public:
     int numDifferentIntegers(string word) {
-        set<string> numbers;
+        unordered_set<string> st;
 
+        int i = 0;
         int n = word.size();
 
-        for (int i = 0; i < n; ) {
+        while (i < n) {
             if (isdigit(word[i])) {
                 string num = "";
 
@@ -14,26 +15,20 @@ public:
                     i++;
                 }
 
-                int j = 0;
+                int pos = num.find_first_not_of('0');
 
-                while (j < num.size() && num[j] == '0') {
-                    j++;
-                }
-
-                if (j == num.size()) {
+                if (pos == string::npos)
                     num = "0";
-                }
-                else {
-                    num = num.substr(j);
-                }
+                else
+                    num = num.substr(pos);
 
-                numbers.insert(num);
+                st.insert(num);
             }
             else {
                 i++;
             }
         }
 
-        return numbers.size();
+        return st.size();
     }
 };
