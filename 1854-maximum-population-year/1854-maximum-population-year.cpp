@@ -1,26 +1,26 @@
 class Solution {
 public:
     int maximumPopulation(vector<vector<int>>& logs) {
-        int years[101] = {};
+        int diff[101] = {};
 
         for (auto& log : logs) {
-            years[log[0] - 1950]++;
-            years[log[1] - 1950]--;
+            diff[log[0] - 1950]++;
+            diff[log[1] - 1950]--;
         }
 
-        int cur = 0;
-        int best = 0;
-        int year = 1950;
+        int population = 0;
+        int maximum = 0;
+        int ans = 1950;
 
-        for (int i = 0; i < 101; i++) {
-            cur += years[i];
+        for (int i = 0; i < 100; i++) {
+            population += diff[i];
 
-            if (cur > best) {
-                best = cur;
-                year = 1950 + i;
+            if (population > maximum) {
+                maximum = population;
+                ans = 1950 + i;
             }
         }
 
-        return year;
+        return ans;
     }
 };
