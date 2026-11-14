@@ -1,11 +1,12 @@
 class Solution {
 public:
     int subsetXORSum(vector<int>& nums) {
-        int ans = 0;
+        int totalOR = 0;
 
-        for (int x : nums)
-            ans |= x;
+        for (int x : nums) {
+            totalOR |= x;
+        }
 
-        return ans * (1 << (nums.size() - 1));
+        return totalOR * (1 << (nums.size() - 1));
     }
 };
