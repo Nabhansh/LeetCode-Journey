@@ -1,15 +1,20 @@
 class Solution {
 public:
-    int value(string s) {
-        int x = 0;
+    int getValue(string s) {
+        int value = 0;
 
-        for (char c : s)
-            x = x * 10 + (c - 'a');
+        for (char c : s) {
+            value = value * 10 + (c - 'a');
+        }
 
-        return x;
+        return value;
     }
 
     bool isSumEqual(string firstWord, string secondWord, string targetWord) {
-        return value(firstWord) + value(secondWord) == value(targetWord);
+        int a = getValue(firstWord);
+        int b = getValue(secondWord);
+        int c = getValue(targetWord);
+
+        return a + b == c;
     }
 };
