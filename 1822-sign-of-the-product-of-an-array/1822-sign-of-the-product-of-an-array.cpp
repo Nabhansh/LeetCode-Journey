@@ -11,6 +11,6 @@ public:
                 negatives++;
         }
 
-        return (negatives % 2 == 0) ? 1 : -1;
+        return negatives % 2 == 0 ? 1 : -1;
     }
 };
