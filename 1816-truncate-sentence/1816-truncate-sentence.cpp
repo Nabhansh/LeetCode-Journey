@@ -2,8 +2,7 @@ class Solution {
 public:
     string truncateSentence(string s, int k) {
         stringstream ss(s);
-        string word;
-        string ans = "";
+        string word, ans;
 
         for (int i = 0; i < k; i++) {
             ss >> word;
