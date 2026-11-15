@@ -2,17 +2,14 @@ class Solution {
 public:
     int numDifferentIntegers(string word) {
         unordered_set<string> st;
-
-        int i = 0;
-        int n = word.size();
+        int i = 0, n = word.size();
 
         while (i < n) {
             if (isdigit(word[i])) {
-                string num = "";
+                string num;
 
                 while (i < n && isdigit(word[i])) {
-                    num += word[i];
-                    i++;
+                    num += word[i++];
                 }
 
                 int pos = num.find_first_not_of('0');
@@ -23,8 +20,7 @@ public:
                     num = num.substr(pos);
 
                 st.insert(num);
-            }
-            else {
+            } else {
                 i++;
             }
         }
