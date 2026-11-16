@@ -1,21 +1,14 @@
 class Solution {
 public:
     string digitSum(string s, int k) {
-        while (s.size() > k) {
-            string t;
-
-            for (int i = 0; i < s.size(); i += k) {
-                int sum = 0;
-
-                for (int j = i; j < min(i + k, (int)s.size()); j++)
-                    sum += s[j] - '0';
-
-                t += to_string(sum);
+        while (ssize(s) > k) {
+            string next;
+            for (int i = 0; i < ssize(s); i += k) {
+                string_view group = string_view(s).substr(i, k);  // the last group may be shorter
+                next += to_string(accumulate(group.begin(), group.end(), 0, [](int sum, char d) { return sum + d - '0'; }));
             }
-
-            s = t;
+            s = next;
         }
-
         return s;
     }
 };
