@@ -819,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2562-find-the-array-concatenation-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3132-find-the-integer-added-to-array-ii) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
@@ -1525,6 +1527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2944-minimum-number-of-coins-for-fruits) |
