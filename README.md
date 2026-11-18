@@ -1029,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2933-high-access-employees](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2938-separate-black-and-white-balls) |
 | [2947-count-beautiful-substrings-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2947-count-beautiful-substrings-i) |
