@@ -10,7 +10,8 @@ public:
         return value;
     }
 
-    bool isSumEqual(string firstWord, string secondWord, string targetWord) {
+    bool isSumEqual(string firstWord, string secondWord,
+                    string targetWord) {
         int a = getValue(firstWord);
         int b = getValue(secondWord);
         int c = getValue(targetWord);
