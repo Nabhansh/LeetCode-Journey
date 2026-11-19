@@ -1,16 +1,17 @@
 class Solution {
 public:
     bool makeEqual(vector<string>& words) {
-        int cnt[26] = {0};
+        int freq[26] = {};
         int n = words.size();
 
-        for (string &word : words) {
-            for (char c : word)
-                cnt[c - 'a']++;
+        for (string& word : words) {
+            for (char c : word) {
+                freq[c - 'a']++;
+            }
         }
 
         for (int i = 0; i < 26; i++) {
-            if (cnt[i] % n != 0)
+            if (freq[i] % n != 0)
                 return false;
         }
 
