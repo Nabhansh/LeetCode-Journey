@@ -1,11 +1,13 @@
 class Solution {
 public:
-    bool isCovered(vector<vector<int>>& ranges, int left, int right) {
-        vector<int> covered(52, 0);
+    bool isCovered(vector<vector<int>>& ranges,
+                   int left, int right) {
+        bool covered[51] = {};
 
-        for (auto &r : ranges) {
-            for (int i = r[0]; i <= r[1]; i++)
-                covered[i] = 1;
+        for (auto& range : ranges) {
+            for (int i = range[0]; i <= range[1]; i++) {
+                covered[i] = true;
+            }
         }
 
         for (int i = left; i <= right; i++) {
