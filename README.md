@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3035-maximum-palindromes-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3035-maximum-palindromes-after-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3044-most-frequent-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3044-most-frequent-prime) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -1537,6 +1538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Nabhansh/LeetCode-Journey/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -2009,6 +2011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3035-maximum-palindromes-after-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
