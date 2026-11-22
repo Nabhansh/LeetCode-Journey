@@ -5,10 +5,12 @@ public:
 
         for (int a = 1; a <= n; a++) {
             for (int b = 1; b <= n; b++) {
-                int c = sqrt(a * a + b * b);
+                int sum = a * a + b * b;
+                int c = sqrt(sum);
 
-                if (c <= n && c * c == a * a + b * b)
+                if (c <= n && c * c == sum) {
                     ans++;
+                }
             }
         }
 
