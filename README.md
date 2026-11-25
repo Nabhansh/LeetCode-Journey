@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3926-count-valid-word-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3926-count-valid-word-occurrences) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3933-largest-local-values-in-a-matrix-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3934-smallest-unique-subarray) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3932-count-k-th-roots-in-a-range) |
+| [3934-smallest-unique-subarray](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3934-smallest-unique-subarray) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/Nabhansh/LeetCode-Journey/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
@@ -1348,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3923-minimum-generations-to-target-point](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3923-minimum-generations-to-target-point) |
 | [3926-count-valid-word-occurrences](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3926-count-valid-word-occurrences) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [3934-smallest-unique-subarray](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3934-smallest-unique-subarray) |
 | [3941-password-strength](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3941-password-strength) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Tree
@@ -1498,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
+| [3934-smallest-unique-subarray](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2635,6 +2639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
+| [3934-smallest-unique-subarray](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -3026,4 +3031,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nabhansh/LeetCode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Nabhansh/LeetCode-Journey/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
