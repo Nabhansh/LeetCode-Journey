@@ -1,18 +1,19 @@
+
 class Solution {
 public:
     bool isPrefixString(string s, vector<string>& words) {
-        string t;
-        
+        string ans = "";
+
         for (string word : words) {
-            t += word;
-            
-            if (t == s)
+            ans += word;
+
+            if (ans == s)
                 return true;
-            
-            if (t.size() > s.size())
+
+            if (ans.size() >= s.size())
                 return false;
         }
-        
+
         return false;
     }
 };
