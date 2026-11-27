@@ -1,15 +1,18 @@
+
 class Solution {
 public:
     int minTimeToType(string word) {
-        int ans = 0;
-        char cur = 'a';
+        int time = 0;
+        char current = 'a';
 
         for (char c : word) {
-            int d = abs(c - cur);
-            ans += min(d, 26 - d) + 1;
-            cur = c;
+            int diff = abs(c - current);
+
+            time += min(diff, 26 - diff) + 1;
+
+            current = c;
         }
 
-        return ans;
+        return time;
     }
 };
